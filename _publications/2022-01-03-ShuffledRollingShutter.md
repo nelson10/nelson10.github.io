@@ -12,4 +12,4 @@ We propose a modification to the rolling shutter mechanism found in CMOS detecto
 
 [Download paper here](https://nelson10.github.io/NelsonDiaz.github.io/files/2022_Optics_Express.pdf)
 
-Recommended citation: Esteban Vera, Felipe Guzmán, and Nelson Díaz. "Shuffled rolling shutter for snapshot temporal imaging," <i> Opt. Express</i> 30, pp. 887-901, 2022.
+Recommended citation: Esteban Vera, Felipe Guzmán, and Nelson Díaz. "Shuffled rolling shutter for snapshot temporal imaging," <i> Opt. Express</i> 30, pp. 887-901. 2022.
