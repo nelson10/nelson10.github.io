@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : nelson_e_diaz
+  username               : &https://twitter.com/nelson_e_diaz
 facebook:
   username               :
   app_id                 :
