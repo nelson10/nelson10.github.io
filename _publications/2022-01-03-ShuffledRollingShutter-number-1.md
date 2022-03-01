@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-03
 excerpt: We propose a modification to the rolling shutter mechanism found in CMOS detectors by shuffling the pixels in every scanline.
 date: 2022-01-03
-venue: 'Optics Express 2022'
+venue: 'Optics Express'
 paperurl: 'https://nelson10.github.io/NelsonDiaz.github.io/files/2022_Optics_Express.pdf'
 citation: 'Esteban Vera, Felipe Guzmán, and Nelson Díaz, "Shuffled rolling shutter for snapshot temporal imaging," Opt. Express 30, 887-901 (2022).'
 ---
