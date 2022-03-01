@@ -2,7 +2,7 @@
 title: "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification."
 collection: publications
 permalink: /publication/2021-09-09-AdaptiveMultisensorAcquisition
-excerpt: 'Spectral image classification uses the huge amount of information provided by spectral images to identify objects in the scene of interest. In this sense, spectral images typically contain redundant information that is removed in later processing stages. To overcome this drawback, compressive spectral imaging (CSI) has emerged as an alternative acquisition approach that captures the relevant information using a reduced number of measurements.'
+excerpt: Spectral image classification uses the huge amount of information provided by spectral images to identify objects in the scene of interest. In this sense, spectral images typically contain redundant information that is removed in later processing stages. To overcome this drawback, compressive spectral imaging (CSI) has emerged as an alternative acquisition approach that captures the relevant information using a reduced number of measurements.
 date: 2021-09-09
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 paperurl: 'http://nelson10.github.io/NelsonDiaz.github.io/files/2021_JSTARS.pdf'
