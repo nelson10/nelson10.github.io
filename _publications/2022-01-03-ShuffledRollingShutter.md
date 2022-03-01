@@ -6,7 +6,7 @@ excerpt: We propose a modification to the rolling shutter mechanism found in CMO
 date: 2022-01-03
 venue: 'Optics Express'
 paperurl: 'https://nelson10.github.io/NelsonDiaz.github.io/files/2022_Optics_Express.pdf'
-citation: 'Esteban Vera, Felipe Guzmán, and Nelson Díaz. &quot;Shuffled rolling shutter for snapshot temporal imaging.&quot; <i>Opt. Express</i>. 30, 887-901. 2021.'
+citation: 'Esteban Vera, Felipe Guzmán, and Nelson Díaz. &quot;Shuffled rolling shutter for snapshot temporal imaging.&quot; <i>Opt. Express</i>. 30, 887-901. 2022.'
 ---
 We propose a modification to the rolling shutter mechanism found in CMOS detectors by shuffling the pixels in every scanline. This potential hardware modification improves the sampling of the space-time datacube, allowing the recovery of high-speed videos from a single image using either tensor completion methods or reconstruction algorithms often used for compressive temporal video. We also present a design methodology for optimal sampling schemes and compare them to random shuffling. Simulations, and experimental results obtained by optically emulating the hardware, demonstrate the ability of the shuffled rolling shutter to capture images that allow reconstructing videos, which would otherwise be impossible when using the traditional rolling shutter mechanism.
 
