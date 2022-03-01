@@ -12,4 +12,4 @@ Spectral image classification uses the huge amount of information provided by sp
 
 [Download paper here](http://nelson10.github.io/NelsonDiaz.github.io/files/2021_JSTARS.pdf)
 
-Recommended citation: N. Diaz, J. Ramirez, E. Vera and H. Arguello. "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification" <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. 14, pp. 9254-9266, 2021.
+Recommended citation: N. Diaz, J. Ramirez, E. Vera and H. Arguello. "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification" <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. 14, pp. 9254-9266. 2021.
