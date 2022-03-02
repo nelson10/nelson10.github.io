@@ -8,6 +8,25 @@ date: 2019-09-02
 location: "Coruña, España"
 ---
 
+This paper studies a new motion estimation method based on convolutional sparse coding. The motion estimation problem is formulated as the minimization of a cost function composed of a data fidelity term, a spatial smoothness constraint, and a regularization based on convolution sparse coding. We study the potential interest of using a convolutional dictionary instead of a standard dictionary using specific examples. Moreover, the proposed method is evaluated in terms of motion estimation accuracy and compared with state-of-the-art algorithms, showing its interest for cardiac motion estimation.
+
+[Download conference here](https://nelson10.github.io/NelsonDiaz.github.io/files/Conference07.pdf)
+
 [More information here](https://ieeexplore.ieee.org/abstract/document/8903163)
 
-This paper studies a new motion estimation method based on convolutional sparse coding. The motion estimation problem is formulated as the minimization of a cost function composed of a data fidelity term, a spatial smoothness constraint, and a regularization based on convolution sparse coding. We study the potential interest of using a convolutional dictionary instead of a standard dictionary using specific examples. Moreover, the proposed method is evaluated in terms of motion estimation accuracy and compared with state-of-the-art algorithms, showing its interest for cardiac motion estimation.
+Recommended citation: N. Diaz, A. Basarab, J. -Y. Tourneret and H. A. Fuentes. "Cardiac Motion Estimation Using Convolutional Sparse Coding," <i>2019 27th European Signal Processing Conference (EUSIPCO), 2019,</i>. pp. 1-5, doi: 10.23919/EUSIPCO.2019.8903163.
+
+```
+@INPROCEEDINGS{Diaz3:published,
+author={N. {Diaz} and A. {Basarab} and J.Y. {Tourneret} and H. {Arguello}},
+booktitle={2019 27th European Signal Processing Conference (EUSIPCO), Coru\~na, Espa\~na},
+title={Cardiac Motion Estimation Using Convolutional Sparse Coding},
+year={2019},
+volume={},
+number={},
+pages={},
+keywords={Ultrasound imaging; cardiac motion estimation; Convolutional dictionary; sparse representation},
+doi={10.1109/EUSIPCO.2019.7760641},
+ISSN={},
+month={Sep},}
+```
