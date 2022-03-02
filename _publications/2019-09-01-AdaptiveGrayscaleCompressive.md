@@ -2,7 +2,7 @@
 title: "Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns"
 collection: publications
 permalink: /publication/2019-09-01-AdaptiveGrayscaleCompressiveSpectral
-excerpt: Spectral image classification uses the huge amount of information provided by spectral images to identify objects in the scene of interest. In this sense, spectral images typically contain redundant information that is removed in later processing stages. To overcome this drawback, compressive spectral imaging (CSI) has emerged as an alternative acquisition approach that captures the relevant information using a reduced number of measurements. Various methods that classify spectral images from compressive projections have been recently reported whose measurements are captured by nonadaptive, or adaptive schemes discarding any contextual information that may help to reduce the number of captured projections.
+excerpt: This paper proposes an adaptive grayscale coded aperture design which combines the advantages of blue noise and block-unblock coding patterns. Blue noise coding patterns are optimal and provide high-quality image reconstructions on regions of non-saturated compressed pixels. On the other hand, the block-unblock coding patterns provide redundancy in the sampling which helps to reduce the saturation in the detector. 
 date: 2019-09-01
 venue: 'Optics & Laser Technology'
 paperurl: 'http://nelson10.github.io/NelsonDiaz.github.io/files/2019_Optics_and_lasers.pdf'
