@@ -18,19 +18,19 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Texas A&M
+  * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
+  * Supervisor: PhD Sebanstian Hoyos
 
 * Fall-Winter 2018-2019: Research Assistant
   * Telecommunications for Space and Aeronautics (TESA)
   * Duties included: It has developed a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
-  * Supervisor: Jean-Yves Tourneret
+  * Supervisor: PhD Jean-Yves Tourneret
 
 * Fall-Winter 2018-2019: Postdoctoral Research Associate
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Esteban Vera
+  * Supervisor: PhD Esteban Vera
   
 Skills
 ======
