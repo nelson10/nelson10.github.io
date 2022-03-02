@@ -1,9 +1,9 @@
 ---
 title: "Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns"
 collection: publications
-permalink: /publication/2021-09-09-AdaptiveGrayscaleCompressiveSpectral
+permalink: /publication/2019-09-01-AdaptiveGrayscaleCompressiveSpectral
 excerpt: Spectral image classification uses the huge amount of information provided by spectral images to identify objects in the scene of interest. In this sense, spectral images typically contain redundant information that is removed in later processing stages. To overcome this drawback, compressive spectral imaging (CSI) has emerged as an alternative acquisition approach that captures the relevant information using a reduced number of measurements. Various methods that classify spectral images from compressive projections have been recently reported whose measurements are captured by nonadaptive, or adaptive schemes discarding any contextual information that may help to reduce the number of captured projections.
-date: 2021-09-09
+date: 2019-09-01
 venue: 'Optics & Laser Technology'
 paperurl: 'http://nelson10.github.io/NelsonDiaz.github.io/files/2019_Optics_and_lasers.pdf'
 citation: 'N. Diaz, C. Hinojosa, and H. Arguello. &quot;Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns.&quot; <i>Optics & Laser Technology</i>. vol. 117, pp. 147-157. 2019.'
@@ -12,4 +12,4 @@ Imaging spectroscopy collects the spectral information of a scene by sensing all
 
 [Download paper here](http://nelson10.github.io/NelsonDiaz.github.io/files/2019_Optics_and_lasers.pdf)
 
-Recommended citation: N. Diaz, C. Hinojosa, and H. Arguello. "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification" <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. vol. 117, pp. 147-157. 2019.
+Recommended citation: N. Diaz, C. Hinojosa, and H. Arguello. "Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns" <i>Optics & Laser Technology</i>. vol. 117, pp. 147-157. 2019.
