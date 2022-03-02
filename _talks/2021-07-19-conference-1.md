@@ -8,7 +8,7 @@ date: 2021-07-19
 location: "Washington, USA"
 ---
 
-[Download paper here](http://nelson10.github.io/NelsonDiaz.github.io/files/2015-Journal Ing-Invest.pdf)
+[Download paper here](http://nelson10.github.io/NelsonDiaz.github.io/files/2015-JournalIng-Invest.pdf)
 
 [More information here](https://opg.optica.org/abstract.cfm?uri=FTS-2021-JTh6A.9)
 
