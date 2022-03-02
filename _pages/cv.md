@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Universidad Industrial de Santander, 2012
-* M.S. in Computer Science, Universidad Industrial de Santander, 2014
-* Ph.D in Engineering Emphasis Electronic, Universidad Industrial de Santander, 2020
+* B.S. in Computer Science, Universidad Industrial de Santander, 2006-2012
+* M.S. in Computer Science, Universidad Industrial de Santander, 2014-2015
+* Ph.D in Engineering Emphasis Electronic, Universidad Industrial de Santander, 2016-2020
 
 Work experience
 ======
@@ -22,10 +22,15 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall-Winter 2018-2019: Research Assistant
+  * Telecommunications for Space and Aeronautics (TESA)
+  * Duties included: It has developed a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
+  * Supervisor: Jean-Yves Tourneret
+
+* Fall-Winter 2018-2019: Postdoctoral Research Associate
+  * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
+  * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
+  * Supervisor: Esteban Vera
   
 Skills
 ======
