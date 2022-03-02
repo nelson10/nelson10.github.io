@@ -1,7 +1,7 @@
 ---
 title: "Cardiac Motion Estimation Using Convolutional Sparse Coding"
 collection: talks
-type: "Tutorial"
+type: "Conference"
 permalink: /talks/2019-09-02-conference-1
 venue: "Conference Center (PALEXCO)"
 date: 2019-09-02
