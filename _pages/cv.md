@@ -32,14 +32,12 @@ Work experience
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
   * Supervisor: Ph.D Esteban Vera
   
-Skills
+Research Topics
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Spectral Imaging
+* Adaptive Imaging
+* Optical Imaging
+* Algorithms
 
 Publications
 ======
