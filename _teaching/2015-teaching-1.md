@@ -7,14 +7,3 @@ venue: "Universidad Industrial de Santander, Department of Electrical Engineerin
 date: 2015-02-01 2015-12-04
 location: "Bucaramanga, Colombia"
 ---
-
-#This is a description of a teaching experience. You can use markdown like any other post.
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
