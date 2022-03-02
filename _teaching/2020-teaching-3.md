@@ -1,5 +1,5 @@
 ---
-title: "Fundamental of Programming"
+title: "Programming Fundamentals"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-teaching-2
