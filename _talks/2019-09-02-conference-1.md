@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Cardiac Motion Estimation Using Convolutional Sparse Coding"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2019-09-02-conference-1
