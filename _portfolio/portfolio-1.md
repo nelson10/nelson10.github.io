@@ -1,12 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)"
+excerpt: "This repository contains tools to simulate the ground filtering process of a registered point cloud. The repository contain two filtering methods. The first method uses normal-vector, and fit to plane. The second method utilizes voxel adjacency, and fit to plane. This repository contains the code to reproduce the results presented in the paper following paper:<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-# Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)
- 
-This repository contains tools to simulate the ground filtering process of a registered point cloud. The repository contain two filtering methods. The first method uses normal-vector, and fit to plane. The second method utilizes voxel adjacency, and fit to plane. This repository contains the code to reproduce the results presented in the paper following paper:
 
 *Diaz, Nelson, et al. "Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)," Accepted to International Journal of Applied Earth Observation and Geoinformation, 2021.
 
