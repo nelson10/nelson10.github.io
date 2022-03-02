@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification"
 excerpt: "This repository aims to adaptive design the coded apertures from compressive spectral images acquired with a multisensor camera. The classification is performed using the captured compressive projections.
-<br/><img src='/images/pointcloud.png'>"
+<br/><img src='/images/twoArms.png'>"
 collection: portfolio
 ---
 
