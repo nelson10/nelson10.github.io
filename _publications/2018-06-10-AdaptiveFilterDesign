@@ -1,5 +1,5 @@
 ---
-title: "Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns"
+title: "Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging"
 collection: publications
 permalink: /publication/2019-09-01-AdaptiveGrayscaleCompressiveSpectral
 excerpt: This paper proposes an adaptive grayscale coded aperture design which combines the advantages of blue noise and block-unblock coding patterns. Blue noise coding patterns are optimal and provide high-quality image reconstructions on regions of non-saturated compressed pixels. On the other hand, the block-unblock coding patterns provide redundancy in the sampling which helps to reduce the saturation in the detector. 
