@@ -1,0 +1,33 @@
+---
+title: "Compressive light field spectral imaging in a single-sensor device by using coded apertures"
+collection: talks
+type: "Conference"
+permalink: /talks/2017-09-02-conference-05
+venue: "Hyatt Regency San Francisco"
+date: 2017-06-26
+location: "San Francisco, California United States"
+---
+
+This work introduces a light field architecture aimed at simultaneously performing multi-spectral compressive imaging and light field acquisition in a single-sensor device. The proposed architecture exploits a microlens array combined with coded aperture patterns.
+
+[Download conference here](https://nelson10.github.io/NelsonDiaz.github.io/files/Conference05.pdf)
+
+[More information here](https://opg.optica.org/abstract.cfm?uri=cosi-2017-CTh1B.5)
+
+Recommended citation: M. Marquez, N. Diaz, J. Bacca, S. Pertuz, and H. Arguello. "Compressive light field spectral imaging in a single-sensor device by using coded apertures," <i>in Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP), OSA Technical Digest (online) (Optica Publishing Group, 2017),</i>. paper CTh1B.5.
+
+```
+@inproceedings{Marquez:17,
+author = {M. Marquez and N. Diaz and J. Bacca and S. Pertuz and H. Arguello},
+booktitle = {Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)},
+journal = {Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)},
+keywords = {Digital image processing; Computational imaging ; Image reconstruction techniques; Extended depth of field; Image processing; Light fields; Multispectral imaging; Optical elements; Spectral imaging},
+pages = {CTh1B.5},
+publisher = {Optica Publishing Group},
+title = {Compressive light field spectral imaging in a single-sensor device by using coded apertures},
+year = {2017},
+url = {http://opg.optica.org/abstract.cfm?URI=COSI-2017-CTh1B.5},
+doi = {10.1364/COSI.2017.CTh1B.5},
+abstract = {This work introduces a light field architecture aimed at simultaneously performing multi-spectral compressive imaging and light field acquisition in a single-sensor device. The proposed architecture exploits a microlens array combined with coded aperture patterns.},
+}
+```
