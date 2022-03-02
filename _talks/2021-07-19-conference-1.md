@@ -9,6 +9,7 @@ location: "Washington, USA"
 ---
 
 [Download paper here](http://nelson10.github.io/NelsonDiaz.github.io/files/2015-Journal Ing-Invest.pdf)
+
 [More information here](https://opg.optica.org/abstract.cfm?uri=FTS-2021-JTh6A.9)
 
 We propose a slight modification to the rolling shutter by shuffling the scanline mechanism to significantly improve its sampling ability to recover high speed videos from a single image using compressive reconstruction algorithms.
