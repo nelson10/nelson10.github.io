@@ -24,7 +24,7 @@ Work experience
 
 * Fall-Winter 2018-2019: Research Assistant
   * Telecommunications for Space and Aeronautics (TESA)
-  * Duties included: It has developed a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
+  * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
   * Supervisor: Ph.D Jean-Yves Tourneret
 
 * Fall-Winter 2018-2019: Postdoctoral Research Associate
