@@ -10,6 +10,8 @@ This repository contains tools to simulate the ground filtering process of a reg
 
 *Diaz, Nelson, et al. "Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)," Accepted to International Journal of Applied Earth Observation and Geoinformation, 2021.
 
+[GitHub Repository](https://github.com/nelson10/Point-cloud-ground-filtering)
+
 If you use this code, please consider citing our paper with the following Bibtex code:
 
 ```
