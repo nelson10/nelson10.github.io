@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-09-01-AdaptiveGrayscaleCompressiveSpectral
 date: 2019-09-01
 venue: 'Optics & Laser Technology'
-paperurl: 'http://nelson10.github.io/files/2019_Optics_and_lasers.pdf'
+paperurl: 'https://doi.org/10.1016/j.optlastec.2019.03.038'
 citation: 'N. Diaz, C. Hinojosa, and H. Arguello. &quot;Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns.&quot; <i>Optics & Laser Technology</i>. vol. 117, pp. 147-157. 2019.'
 ---
 
