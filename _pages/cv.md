@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2014-2014: Msc and PhD Student
+* 2014-2020: Msc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
