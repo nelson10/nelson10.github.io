@@ -5,7 +5,7 @@ permalink: /publication/2021-09-09-AdaptiveMultisensorAcquisition
 excerpt: 
 date: 2021-09-09
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
-paperurl: '10.1109/JSTARS.2021.3111508'
+paperurl: 'http://nelson10.github.io/files/2021_JSTARS.pdf'
 citation: 'N. Diaz, J. Ramirez, E. Vera and H. Arguello. &quot;Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification.&quot; <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. 14, pp. 9254-9266. 2021.'
 ---
 
