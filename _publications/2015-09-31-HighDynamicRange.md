@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-09-31-HighDynamicRange
 date: 2015-09-31
 venue: 'Ingeniería e Investigación'
-paperurl: 'https://revistas.unal.edu.co/index.php/ingeinv/article/view/49868'
+paperurl: 'https://doi.org/10.15446/ing.investig.v35n3.49868'
 citation: 'N. Diaz, H. Rueda, and H. Arguello. &quot;High-dynamic range compressive spectral imaging by grayscale coded aperture adaptive filtering.&quot; <i>Ingeniería e Investigación</i>, vol. 35, pp. 53-60, 2015.'
 ---
 
