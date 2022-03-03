@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-06-10-AdaptiveFilterDesign 
 date: 2018-06-10
 venue: 'Applied Optics'
-paperurl: 'http://nelson10.github.io/files/2018-Applied_Optics.pdf'
+paperurl: 'https://doi.org/10.1364/AO.57.004890'
 citation: 'N. Diaz, H. Rueda, and H. Arguello. &quot;Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging.&quot; <i>Applied Optics</i>. vol. 57, pp. 4890-4900. 2018.'
 ---
 [Download paper here](http://nelson10.github.io/files/2018-Applied_Optics.pdf)
