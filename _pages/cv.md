@@ -21,7 +21,7 @@ Work experience
   * Universidad Industrial de Santander
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
-  * 
+  
 * Summer 2015: Research Assistant
   * Texas A&M
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
