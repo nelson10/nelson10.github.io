@@ -7,7 +7,6 @@ date: 2021-12-25
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: 'http://nelson10.github.io/files/2021_JAG.pdf'
 citation: 'Nelson Diaz, Omar Gallo, Jhon Caceres, Hernan Porras. &quot;Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS).&quot; <i>International Journal of Applied Earth Observation and Geoinformation</i>, vol 105, pp. 102629, 2021.'
-doi:'10.1016/j.jag.2021.102629'
 ---
 
 
