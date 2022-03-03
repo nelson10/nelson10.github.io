@@ -7,7 +7,6 @@ date: 2022-01-03
 venue: 'Optics Express'
 paperurl: 'https://nelson10.github.io/files/2022_Optics_Express.pdf'
 citation: 'Esteban Vera, Felipe Guzmán, and Nelson Díaz, &quot;Shuffled rolling shutter for snapshot temporal imaging.&quot; <i>Opt. Express</i>. vol. 30, pp. 887-901, 2022.'
-doi:'10.1364/OE.444864'
 ---
 
 [Download paper here](https://nelson10.github.io/files/2022_Optics_Express.pdf)
