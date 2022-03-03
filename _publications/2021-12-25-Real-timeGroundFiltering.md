@@ -2,7 +2,6 @@
 title: "Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)"
 collection: publications
 permalink: /publication/2021-12-25-Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner (TLS)
-excerpt: ''
 date: 2021-12-25
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: 'http://nelson10.github.io/files/2021_JAG.pdf'
