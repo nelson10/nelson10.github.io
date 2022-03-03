@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nelson Diaz"
+title                    : "Nelson Díaz"
 title_separator          : "-"
-name                     : &name "Nelson Diaz"
+name                     : &name "Nelson Díaz"
 description              : &description "description"
 url                      : https://nelson10.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
