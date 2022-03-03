@@ -9,6 +9,8 @@ This repository contains the code to reproduce the results presented in the pape
 
 *N. Diaz, J. M. Ramirez, E. Vera and H. Arguello, "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3111508.
 
+[GitHub Repository](https://github.com/nelson10/CompressiveAdaptiveClassificationMultisensor..git)
+
 ## Usage
 
 This code was written using Matlab R2020b. It should be downloaded the CompressiveAdaptiveClassificationMultisensor repository
