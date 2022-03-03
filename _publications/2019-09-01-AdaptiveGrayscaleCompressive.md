@@ -2,7 +2,7 @@
 title: "Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns"
 collection: publications
 permalink: /publication/2019-09-01-AdaptiveGrayscaleCompressiveSpectral
-excerpt: This paper proposes an adaptive grayscale coded aperture design which combines the advantages of blue noise and block-unblock coding patterns. Blue noise coding patterns are optimal and provide high-quality image reconstructions on regions of non-saturated compressed pixels. On the other hand, the block-unblock coding patterns provide redundancy in the sampling which helps to reduce the saturation in the detector. 
+excerpt:
 date: 2019-09-01
 venue: 'Optics & Laser Technology'
 paperurl: 'http://nelson10.github.io/files/2019_Optics_and_lasers.pdf'
