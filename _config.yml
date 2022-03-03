@@ -85,10 +85,10 @@ author:
   bio              : "Nelson Díaz (Member, IEEE) received the B.Sc. (Eng.) degree in computer science engineering, the M.Sc. degree in computer science, and the Ph.D. degree in engineering with emphasis in electronic from the Universidad Industrial de Santander, Bucaramanga, Colombia, in 2012, 2015, and 2020, respectively.,Currently, he holds a Postdoctoral position with the Pontificia Universidad Católica de Valparaíso (PUCV), Santiago, Chile, under the supervision of Prof. Esteban Vera. His research interests include high-dimensional signal processing, sparse image representation, adaptive sensing, compressive video, and spectral image classification."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=JQXNzLUAAAAJ&hl=en"
   email            : "nelson.diaz@pucv.cl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Nelson-Diaz-4"
   uri              :
   bitbucket        :
   codepen          :
