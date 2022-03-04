@@ -27,7 +27,7 @@ Work experience
 * August 2020-Present: Postdoctoral Research Associate
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Ph.D. [Esteban Vera](hhttps://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
+  * Supervisor: Ph.D. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
   
 * 2014-2020: Msc and PhD Student
   * Universidad Industrial de Santander
