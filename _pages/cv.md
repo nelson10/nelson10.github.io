@@ -70,4 +70,4 @@ Teaching
 Memberships
 ======
 * IEEE Signal Processing Society, Member
-* Optica, Member
+* Optica (Formerly Optical Society of America), Member 
