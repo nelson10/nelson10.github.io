@@ -66,3 +66,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Memberships
+======
+* IEEE Signal Processing Society, Member
+* Optica, Member
