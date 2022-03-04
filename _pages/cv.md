@@ -24,6 +24,11 @@ Research Topics
 
 Work experience
 ======
+* 2006-2012: Bsc Student
+  * Universidad Industrial de Santander
+  * Duties included: To develop an immune algorithm for solving job scheduling problem
+  * Supervisor: Ph.D. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
+  * 
 * 2014-2020: Msc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
