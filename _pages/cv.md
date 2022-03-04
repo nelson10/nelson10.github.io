@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Universidad Industrial de Santander, 2006-2012
 * M.S. in Computer Science, Universidad Industrial de Santander, 2014-2015
-* Ph.D in Engineering Emphasis Electronic, Universidad Industrial de Santander, 2016-2020
+* Ph.D. in Engineering Emphasis Electronic, Universidad Industrial de Santander, 2016-2020
 
 Research Topics
 ======
