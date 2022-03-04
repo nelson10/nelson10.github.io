@@ -24,30 +24,30 @@ Research Topics
 
 Work experience
 ======
-* 2006-2012: Bsc Student
-  * Universidad Industrial de Santander
-  * Duties included: To develop an immune algorithm for solving job scheduling problem
-  * Supervisor: Ph.D. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
-  * 
+* August 2020-Present: Postdoctoral Research Associate
+  * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
+  * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
+  * Supervisor: Ph.D. [Esteban Vera](hhttps://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
+  
 * 2014-2020: Msc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
-  
-* Summer 2015: Research Assistant
-  * Texas A&M
-  * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
-  * Supervisor: Ph.D. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
 
 * Fall-Winter 2018-2019: Research Assistant
   * Telecommunications for Space and Aeronautics (TéSA)
   * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
   * Supervisor: Ph.D. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
 
-* August 2020-Present: Postdoctoral Research Associate
-  * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
-  * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Ph.D. [Esteban Vera](hhttps://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
+* Summer 2015: Research Assistant
+  * Texas A&M
+  * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
+  * Supervisor: Ph.D. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
+
+* 2006-2012: Bsc Student
+  * Universidad Industrial de Santander
+  * Duties included: To develop an immune algorithm for solving job scheduling problem
+  * Supervisor: Ph.D. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
 
 Publications
 ======
