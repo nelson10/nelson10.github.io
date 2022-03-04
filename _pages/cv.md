@@ -15,6 +15,13 @@ Education
 * M.S. in Computer Science, Universidad Industrial de Santander, 2014-2015
 * Ph.D in Engineering Emphasis Electronic, Universidad Industrial de Santander, 2016-2020
 
+Research Topics
+======
+* Computational Spectral Imaging
+* Adaptive Imaging
+* Optical Imaging
+* Algorithms
+
 Work experience
 ======
 * 2014-2020: Msc and PhD Student
@@ -32,17 +39,10 @@ Work experience
   * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
   * Supervisor: Ph.D. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
 
-* Fall-Winter 2018-2019: Postdoctoral Research Associate
+* August 2020-Present: Postdoctoral Research Associate
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Ph.D. [Esteban Vera](https://www.pucv.cl/uuaa/escuela-de-ingenieria-electrica/profesores-jornada-completa/esteban-vera-rojas)
-  
-Research Topics
-======
-* Computational Spectral Imaging
-* Adaptive Imaging
-* Optical Imaging
-* Algorithms
+  * Supervisor: Ph.D. [Esteban Vera](hhttps://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
 
 Publications
 ======
@@ -50,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
