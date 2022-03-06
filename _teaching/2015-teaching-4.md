@@ -1,5 +1,5 @@
 ---
-title: "Numerical Analysis (Laboratory Asistant)"
+title: "Numerical Analysis (Laboratory Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-teaching-1
