@@ -29,7 +29,7 @@ Work experience
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
   * Supervisor: Ph.D. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
   
-* 2014-2020: Msc and PhD Student
+* 2014-2020: MSc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
@@ -44,7 +44,7 @@ Work experience
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Supervisor: Ph.D. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
 
-* 2006-2012: Bsc Student
+* 2006-2012: BSc Student
   * Universidad Industrial de Santander
   * Duties included: To develop an immune algorithm for solving job scheduling problem
   * Supervisor: Ph.D. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
