@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /[[Paper]](http://nelson10.github.io/files/2018-Applied_Optics.pdf)
 ---
 
 {% include base_path %}
