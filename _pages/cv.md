@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /[[Paper]](http://nelson10.github.io/files/2018-Applied_Optics.pdf)
+  - /resume
 ---
 
 {% include base_path %}
@@ -71,3 +71,9 @@ Memberships
 ======
 * IEEE Signal Processing Society, Member
 * Optica (Formerly Optical Society of America), Member 
+
+Skills
+======
+* Languages: Spanish (Native), English (B2), French (B2)
+* Programming: Python (NumPy, SciPy, Matplotlib), MATLAB
+* Document Creation: Office tools, LATEX
