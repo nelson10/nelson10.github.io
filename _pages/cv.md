@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[[CV]](http://nelson10.github.io/files/CV_Nelson.pdf)
+
 Education
 ======
 * B.S. in Computer Science, Universidad Industrial de Santander, 2006-2012
