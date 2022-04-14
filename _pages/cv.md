@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[CV]](http://nelson10.github.io/files/CV_Nelson.pdf)
+[[pdf cv]](http://nelson10.github.io/files/CV_Nelson.pdf)
 
 Education
 ======
