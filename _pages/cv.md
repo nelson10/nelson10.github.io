@@ -31,7 +31,7 @@ Work experience
   
 * 2014-2020: MSc and PhD Student
   * Universidad Industrial de Santander
-  * Duties included: To develop adaptive sensing approaches applied to different tasks such as image reconstruction, classification and motion estimation in compressive spectral video.
+  * Duties included: To develop adaptive sensing approaches applied to different tasks such as spectral image reconstruction, spectral classification and motion estimation in compressive spectral video.
   * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
 
 * Fall-Winter 2018-2019: Research Assistant
