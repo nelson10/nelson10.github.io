@@ -2,7 +2,7 @@
 title: "Evaluación de algoritmos bioinspirados para el problema de planificación de trabajos"
 collection: publications
 permalink: /publication/2018-01-01-ClonalAlgorithm
-date: 2015-09-31
+date: 2018-01-01
 venue: 'I+D revista de investigaciones'
 #paperurl: 'https://doi.org/10.33304/revinv.v11n1-2018011'
 #citation: 'E. Florez, N. Diaz, W. Goméz, L. Bautista and D. Delgado. &quot;Evaluación de algoritmos bioinspirados para el problema de planificación de trabajos.&quot; <i>I+D revista de investigaciones</i>, vol. 1, pp. 133-143, 2018.'
