@@ -29,3 +29,4 @@ Sensing a spectral image data cube has traditionally been a time-consuming task 
 	keywords = {Beam splitters, Digital micromirror devices, Image quality, Image reconstruction, Optical elements, Signal recovery},
 	pages = {4890--4900},}
 ```
+<a href="https://www.scimagojr.com/journalsearch.php?q=29593&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29593" alt="SCImago Journal &amp; Country Rank"  /></a>
