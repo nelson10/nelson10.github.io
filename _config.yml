@@ -83,7 +83,7 @@ author:
   name             : "Ph.D Nelson Díaz"
   avatar           : "profile.png"
   bio              : "Nelson Díaz, contact information: nelson [dot] diaz [at] pucv [dot] cl"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=JQXNzLUAAAAJ&hl=en"
