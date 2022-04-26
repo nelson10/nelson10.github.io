@@ -27,3 +27,4 @@ The coded aperture snapshot spectral imaging system (CASSI) is an imaging archit
 	url = {https://revistas.unal.edu.co/index.php/ingeinv/article/view/49868}
 }
 ```
+<a href="https://www.scimagojr.com/journalsearch.php?q=19700173003&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19700173003" alt="SCImago Journal &amp; Country Rank"  /></a>
