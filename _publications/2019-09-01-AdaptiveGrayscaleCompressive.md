@@ -26,3 +26,4 @@ Imaging spectroscopy collects the spectral information of a scene by sensing all
 	keywords = {Adaptive imaging, Coded aperture design, Compressive spectral imaging, Computational imaging, Grayscale coded aperture, Spectral imaging systems},
 	pages = {147--157},}
 ```
+<a href="https://www.scimagojr.com/journalsearch.php?q=12346&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12346" alt="SCImago Journal &amp; Country Rank"  /></a>
