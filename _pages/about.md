@@ -13,4 +13,4 @@ redirect_from:
 <div style="text-align: justify"> For details about the activities of Nelson Díaz you can consult <a href="http://nelson10.github.io/files/CV_Nelson.pdf">his short cv</a>. You can access my Cvlac account <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001393883">here</a>, category Junior researcher (investigador Junior).</div> 
 
 <br/><img src='/images/foto2.jpeg'>
-Casa Central de la Pontificia Universidad Católica de Valparaíso
+Casa Central of the Pontificia Universidad Católica de Valparaíso.
