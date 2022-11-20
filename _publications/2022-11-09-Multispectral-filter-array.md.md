@@ -1,7 +1,7 @@
 ---
 title: "Multispectral Filter Array Design by Optimal Sphere Packing"
 collection: publications
-permalink: /publication/2022-01-03-MultispectralFilterArray
+permalink: /publication/2022-11-09-Multispectral-filter-array
 excerpt: 
 date: 2022-01-03
 venue: 'summited on Transactions on Image Processing'
