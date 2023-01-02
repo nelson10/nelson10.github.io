@@ -22,6 +22,7 @@ Research Topics
 * Applied optics
 * Signal processing
 * Image and video processing
+* Algorithms
 
 Work experience
 ======
