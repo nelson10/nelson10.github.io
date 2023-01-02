@@ -17,10 +17,11 @@ Education
 
 Research Topics
 ======
-* Computational Spectral Imaging
-* Adaptive Imaging
-* Optical Imaging
-* Algorithms
+* Computational imaging
+* Compressive sensing
+* Applied optics
+* Signal processing
+* Image and video processing
 
 Work experience
 ======
