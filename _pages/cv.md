@@ -29,27 +29,27 @@ Work experience
 * August 2020-Present: Postdoctoral Research Associate
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Ph.D. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
+  * Supervisor: Dr. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
   
 * 2014-2020: MSc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop adaptive sensing approaches applied to different tasks such as spectral image reconstruction, spectral classification and motion estimation in compressive spectral video.
-  * Supervisor: Ph.D. [Henry Arguello](http://hdspgroup.com/)
+  * Supervisor: Dr. [Henry Arguello](http://hdspgroup.com/)
 
 * Fall-Winter 2018-2019: Research Assistant
   * Telecommunications for Space and Aeronautics (TéSA)
   * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
-  * Supervisor: Ph.D. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
+  * Supervisor: Dr. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
 
 * Summer 2015: Research Assistant
   * Texas A&M
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
-  * Supervisor: Ph.D. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
+  * Supervisor: Dr. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
 
 * 2011-2012: BSc Student
   * Universidad Industrial de Santander
   * Duties included: To develop an immune algorithm for solving job scheduling problem
-  * Supervisor: Ph.D. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
+  * Supervisor: Dr. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
 
 Publications
 ======
