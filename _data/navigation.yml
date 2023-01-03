@@ -12,8 +12,8 @@ main:
   - title: "Repository"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
     
   - title: "CV"
     url: /cv/
