@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-09-Multispectral-filter-array
 excerpt: 
 date: 2023-06-11
-venue: 'Summited to Transactions on Image Processing'
+venue: 'Accepted to Transactions on Image Processing'
 #paperurl: 'https://doi.org/10.1364/OE.444864'
 #citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Multispectral Filter Array Design by Optimal Sphere Packing.&quot; <i>Opt. Express,</i>. vol. 30, pp. 887-901, 2022.'
 ---
