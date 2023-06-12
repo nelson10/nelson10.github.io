@@ -6,7 +6,7 @@ excerpt:
 date: 2023-06-11
 venue: 'Accepted to Transactions on Image Processing'
 #paperurl: 'https://doi.org/10.1364/OE.444864'
-#citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Multispectral Filter Array Design by Optimal Sphere Packing.&quot; <i>Opt. Express,</i>. vol. 30, pp. 887-901, 2022.'
+#citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Multispectral Filter Array Design by Optimal Sphere Packing.&quot; <i>Opt. Express,</i>. vol. 30, pp. 887-901, 2023.'
 ---
 
 Recommended citation: **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, "Multispectral Filter Array Design by Optimal Sphere Packing," <i> Accepted to Transactions on Image Processing,</i> 2022. [[Paper]](https://nelson10.github.io/files/2022_IEEE_TIP.pdf), [[TechRxiv]](https://doi.org/10.36227/techrxiv.21502899.v1), [[Code]](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking.git).
