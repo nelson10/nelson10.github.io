@@ -20,10 +20,10 @@ Multispectral Imaging (MSI) collects a datacube of spatio-spectral information o
 @article{Diaz2022,
 author = "Nelson Diaz and Alejandro Alvarado and Pablo Meza and Felipe Guzman and Esteban Vera",
 title = "{Multispectral Filter Array Design by Optimal Sphere Packing}",
-year = "2022",
-month = "11",
-url = "https://www.techrxiv.org/articles/preprint/Multispectral_Filter_Array_Design_by_Optimal_Sphere_Packing/21502899",
-doi = "10.36227/techrxiv.21502899.v1"
+year = "2023",
+month = "6",
+journal ="IEEE Transactions on Image Processing",
+doi = "10.1109/TIP.2023.3288414"
 }
 ```
 <a href="https://www.scimagojr.com/journalsearch.php?q=25534&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25534" alt="SCImago Journal &amp; Country Rank"  /></a>
