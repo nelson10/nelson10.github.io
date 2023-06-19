@@ -17,7 +17,7 @@ Multispectral Imaging (MSI) collects a datacube of spatio-spectral information o
 ### Cite
 
 ```
-@article{Diaz2022,
+@article{Diaz2023,
 author = "Nelson Diaz and Alejandro Alvarado and Pablo Meza and Felipe Guzman and Esteban Vera",
 title = "{Multispectral Filter Array Design by Optimal Sphere Packing}",
 year = "2023",
