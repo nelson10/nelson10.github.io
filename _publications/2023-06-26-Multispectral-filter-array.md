@@ -1,12 +1,12 @@
 ---
 title: "Multispectral Filter Array Design by Optimal Sphere Packing"
 collection: publications
-permalink: /publication/2022-11-09-Multispectral-filter-array
+permalink: /publication/2023-06-26-Multispectral-filter-array
 excerpt: 
 date: 2023-06-11
 venue: 'IEEE Transactions on Image Processing'
 #paperurl: 'https://doi.org/10.1364/OE.444864'
-#citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Multispectral Filter Array Design by Optimal Sphere Packing.&quot; <i>Opt. Express,</i>. vol. 30, pp. 887-901, 2023.'
+#citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Multispectral Filter Array Design by Optimal Sphere Packing.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. -1, pp. 1-1, 2023.'
 ---
 
 Recommended citation: **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, "Multispectral Filter Array Design by Optimal Sphere Packing," <i> IEEE Transactions on Image Processing,</i> 2023. [[DOI]](https://ieeexplore.ieee.org/document/10163979),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[TechRxiv]](https://doi.org/10.36227/techrxiv.21502899.v1), [[Code]](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking.git).
