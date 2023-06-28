@@ -29,22 +29,22 @@ Work experience
 * August 2020-Present: Postdoctoral Research Associate
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
-  * Supervisor: Dr. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
+  * Mentor: Dr. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
   
 * 2014-2020: MSc and PhD Student
   * Universidad Industrial de Santander
   * Duties included: To develop adaptive sensing approaches applied to different tasks such as spectral image reconstruction, spectral classification and motion estimation in compressive spectral video.
-  * Supervisor: Dr. [Henry Arguello](http://hdspgroup.com/)
+  * Advisor: Dr. [Henry Arguello](http://hdspgroup.com/)
 
 * Fall-Winter 2018-2019: Research Assistant
   * Telecommunications for Space and Aeronautics (TéSA)
   * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
-  * Supervisor: Dr. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
+  * Mentor: Dr. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
 
 * Summer 2015: Research Assistant
   * Texas A&M
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
-  * Supervisor: Dr. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
+  * Mentor: Dr. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
 
 * 2011-2012: BSc Student
   * Universidad Industrial de Santander
