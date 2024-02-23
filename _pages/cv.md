@@ -32,22 +32,22 @@ Work experience
   * Mentor: Dr. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
   
 * 2014-2020: MSc and PhD Student
-  * Universidad Industrial de Santander
+  * Universidad Industrial de Santander, Colombia
   * Duties included: To develop adaptive sensing approaches applied to different tasks such as spectral image reconstruction, spectral classification and motion estimation in compressive spectral video.
   * Advisor: Dr. [Henry Arguello](http://hdspgroup.com/)
 
 * Fall-Winter 2018-2019: Research Assistant
-  * Telecommunications for Space and Aeronautics (TéSA)
+  * Telecommunications for Space and Aeronautics (TéSA), France
   * Duties included: To develop a new cardiac motion estimation algorithm with promising results when compared to state-of-the-art methods.
   * Mentor: Dr. [Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/)
 
 * Summer 2015: Research Assistant
-  * Texas A&M
+  * Texas A&M, United States
   * Duties included: To develop grayscale coded aperture to avoid saturation in compressive spectral imaging
   * Mentor: Dr. [Sebanstian Hoyos](https://engineering.tamu.edu/electrical/profiles/shoyos.html)
 
 * 2011-2012: BSc Student
-  * Universidad Industrial de Santander
+  * Universidad Industrial de Santander, Colombia
   * Duties included: To develop an immune algorithm for solving job scheduling problem
   * Supervisor: Dr. [Lola Bautista](https://scholar.google.com/citations?user=e_HnmjMAAAAJ&hl=es)
 
