@@ -77,5 +77,5 @@ Memberships
 Skills
 ======
 * Languages: Spanish (Native), English (B2), French (B2)
-* Programming: Python (NumPy, SciPy, Matplotlib), MATLAB
+* Programming: Python (NumPy, PyTorch, SciPy, Matplotlib), MATLAB
 * Document Creation: Office tools, LATEX
