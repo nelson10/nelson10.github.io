@@ -1,5 +1,5 @@
 ---
-title: "Structure Programming"
+title: "Structure Programming (Assistant Professor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-teaching-2
