@@ -1,5 +1,5 @@
 ---
-title: "Information and Communications Technology"
+title: "Information and Communications Technology (Assistant Professor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-teaching-2
