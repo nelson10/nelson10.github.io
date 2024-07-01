@@ -1,5 +1,5 @@
 ---
-title: "Digital Image Processing"
+title: "Digital Image Processing (Asistant Professor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-teaching-1
