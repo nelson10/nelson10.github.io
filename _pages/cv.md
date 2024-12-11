@@ -18,8 +18,7 @@ Education
 Research Topics
 ======
 * Image and video sensing (Applied sphere packing)
-* Computational imaging (Compressive spectral imaging, wavefront coding, phase retrieval)
-* Applied optics
+* Computational imaging and Applied optics (Compressive spectral imaging, wavefront coding, phase retrieval)
 * Remote sensing (Compressive spectral imaging classification, LiDAR point cloud processing)
 * Compressive sensing
 * Digital signal processing
