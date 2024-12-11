@@ -21,7 +21,7 @@ Research Topics
 * Computational imaging and Applied optics (Compressive spectral imaging, wavefront coding, phase retrieval)
 * Remote sensing (Compressive spectral imaging classification, LiDAR point cloud processing)
 * Compressive sensing
-* Digital signal processing
+* Digital image/signal processing
 * Algorithms
 
 Work experience
