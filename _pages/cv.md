@@ -17,8 +17,8 @@ Education
 
 Research Topics
 ======
-* **Applied Sphere Packing**: Spectral imaging and video sensing
-* **Computational imaging and applied optics**: adaptive compressive spectral imaging, wavefront coding, phase retrieval
+* **Applied Sphere Packing**: Single-snapshot spectral imaging and video sensing
+* **Computational imaging and applied optics**: adaptive sensing of compressive spectral imaging, wavefront coding, phase retrieval
 * **Remote sensing**: compressive spectral imaging classification, LiDAR point cloud processing
 * Compressive sensing
 * Digital image/signal processing
