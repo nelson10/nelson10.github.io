@@ -18,10 +18,11 @@ Education
 Research Topics
 ======
 * Computational imaging
+* Applied optics
 * Compressive spectral imaging
 * Applied sphere packing
+* Remote sensing
 * Compressive sensing
-* Applied optics
 * Digital signal processing
 * Image and video processing
 * Algorithms
