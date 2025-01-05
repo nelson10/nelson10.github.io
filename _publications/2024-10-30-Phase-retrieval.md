@@ -3,7 +3,7 @@ title: "Phase Retrieval by Designed Hadamard Complementary Coded Apertures"
 collection: publications
 permalink: /publication/2023-08-01-shuffled-rolling-shutter-camera
 excerpt: 
-date: 2023-08-01
+date: 2024-10-30
 venue: 'Optica Open'
 #paperurl: '[https://doi.org/10.1364/opticaopen.25706580.v1](https://doi.org/10.1364/opticaopen.25706580.v1)'
 #citation: 'Bastian Romero, Aarón Cofré, Nelson Diaz, Pablo Scherz, Jorge Tapia, Eduardo Peters, Dario Perez and Esteban Vera, &quot;Phase Retrieval by Designed Hadamard Complementary Coded Apertures.&quot; <i>, Optica Open,</i>., pp. 499-513, 2023.'
