@@ -1,7 +1,7 @@
 ---
 title: "Phase Retrieval by Designed Hadamard Complementary Coded Apertures"
 collection: publications
-permalink: /publication/2023-08-01-shuffled-rolling-shutter-camera
+permalink: /publication/2024-10-30-Phase-retrieval-Complmentary-Hadamard-Coded-Aperture
 excerpt: 
 date: 2024-10-30
 venue: 'Optica Open'
