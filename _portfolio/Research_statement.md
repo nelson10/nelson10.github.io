@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 <div style="text-align: justify">  I am interested in developing a computational imaging system that improve our understanding of the world. 
-In this regard, my research has focused on 3 different subareas. First, \textbf{applied sphere packing for 
-single-snapshot spectral imaging/video sensing}, where I have designed and built a \textit{multispectral 
-filter array with an optimal sensing distribution} that overcomes the limitations of traditional multispectral filters 
+In this regard, my research has focused on 3 different subareas. First, **applied sphere packing for 
+single-snapshot spectral imaging/video sensing**, where I have designed and built a *multispectral 
+filter array with an optimal sensing distribution* that overcomes the limitations of traditional multispectral filters 
 (color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel **shuffled rolling shutter 
 camera** that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
 metal oxide semiconductor (CMOS) detectors. Second, **computational imaging and applied optics** 
@@ -34,8 +34,6 @@ Specifically, I can group my research topics in three subareas:
 * **Remote sensing**: Two modalities are highlighted here, compressive spectral imaging classification, and point cloud processing captured using Light Detection and Ranging (LiDAR). My work published in [J4] combines a two-arm optical system, the CSI architecture includes one arm that samples the projection of multispectral data and the other arm that captures hyperspectral projections, and an adaptive system is used to design the complementary coded aperture patterns to improve the spectral classification accuracy. The journal in [J3] shows my expertise in other types of multidimensional data, such as point clouds acquired using LiDAR for a specific task such as ground filtering.
 
 
-%Specifically, [J5, C5] introduced an adaptive system for colored coded aperture snapshot spectral imager (C-CASSI) to improve the image reconstruction quality. 
-
 1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, \href{https://doi.org/10.1109/TIP.2023.3288414}{doi:10.1109/TIP.2023.3288414}.
 2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, \href{https://doi.org/10.1364/OE.444864}{doi.org/10.1364/OE.444864}.
 3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, \href{https://doi.org/10.1016/j.jag.2021.102629}{doi.org/10.1016/j.jag.2021.102629}.
@@ -45,7 +43,7 @@ Specifically, I can group my research topics in three subareas:
 
 * [C1] F. Guzman, **N. Díaz** E. Vera, Improved Compressive Temporal Imaging using a Shuffled Rolling Shutter, OSA Optical Sensors and Sensing Congress, virtual, 2021.
 *  [C2] J. Bacca, **N. Díaz**, H. Arguello, Compressive classification via deep learning using single-pixel measurement, 2020 Data Compression Conference, USA, 2020.
-* [C3] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, \textbf{Cardiac motion estimation} using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
+* [C3] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, **Cardiac motion estimation** using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
 *  [C4] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, Adaptive coded aperture design by motion estimation using convolutional sparse coding in compressive spectral video sensing, CAMSAP, France, 2019.
 * [C5] **N. Díaz**, J. Bacca, H. Arguello, Gradient thresholding algorithm for adaptive colored coded aperture design in compressive spectral imaging, OSA Optical Sensors and Sensing Congress, USA, 2017.
 
