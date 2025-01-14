@@ -39,7 +39,7 @@ Specifically, I can group my research topics in three subareas:
 
 
 1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, <a href="https://doi.org/10.1109/TIP.2023.3288414">doi:10.1109/TIP.2023.3288414</a>.
-2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, \href{https://doi.org/10.1364/OE.444864}{doi.org/10.1364/OE.444864} <a href="https://doi.org/10.1109/TIP.2023.3288414">doi:10.1109/TIP.2023.3288414</a>.
+2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, <a href="https://doi.org/10.1364/OE.444864">doi.org/10.1364/OE.444864</a>.
 3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, <a href="https://doi.org/10.1016/j.jag.2021.102629">doi.org/10.1016/j.jag.2021.102629</a>.
 4. [J4] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, <a href="https://doi.org/10.1109/JSTARS.2021.3111508">doi:10.1109/JSTARS.2021.3111508</a>
 5. [J5] **N. Díaz**, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, <a href="https://doi.org/10.1016/j.optlastec.2019.03.038">doi.org/10.1016/j.optlastec.2019.03.038</a>.
