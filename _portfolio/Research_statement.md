@@ -17,7 +17,7 @@ such as extended-depth-of-field (EDoF), coded aperture design for phase retrieva
 where I have also developed <i>adaptive compressive multispectral imaging and video acquisition systems</i> to improve
 the image quality and perform specific tasks, such as, classification. I also <i>developed and implemented
 an algorithm for ground filtering using point cloud processing captured using Light Detection and Ranging</i> (LiDAR). 
-</div>
+</div> <br>
 
 <div style="text-align: justify"> This research thrusts will have a broad impact on several domains including consumer photography, surveillance, 
 remote sensing, target identification, medical applications, and computational imaging, and applied optics. 
