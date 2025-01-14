@@ -5,6 +5,7 @@ type: "Undergraduate and graduate"
 permalink: /teaching/statement
 venue: "courses in electrical engineering and computer science"
 date: 2025
+location: "Valparaíso, Chile"
 ---
 
 
