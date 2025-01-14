@@ -1,7 +1,7 @@
 ---
 title: "Teaching Statement"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and graduate courses in electrical engineering and computer science"
 permalink: /teaching/statement
 ---
 
