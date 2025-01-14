@@ -1,3 +1,9 @@
+---
+title: "Research Statement"
+excerpt: "Research Thrusts"
+collection: portfolio
+---
+
 I am interested in developing a computational imaging system that improve our understanding of the world. 
 In this regard, my research has focused on 3 different subareas. First, \textbf{applied sphere packing for 
 single-snapshot spectral imaging/video sensing}, where I have designed and built a \textit{multispectral 
