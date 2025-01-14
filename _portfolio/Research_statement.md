@@ -10,7 +10,7 @@ single-snapshot spectral imaging and video sensing</b>, where I have designed an
 filter array with an optimal sensing distribution</i> that overcomes the limitations of traditional multispectral filters 
 (color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel <b>shuffled rolling shutter 
 camera</b> that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
-metal oxide semiconductor (CMOS) detectors. Second, **computational imaging and applied optics** 
+metal oxide semiconductor (CMOS) detectors. Second, <b>computational imaging and applied optics</b> 
 where I explore different topics such adaptive compressive spectral imaging sensing to improve the quality 
 of spectral image reconstruction, wavefront coding using diffractive optical elements for solving tasks
 such as extended-depth-of-field (EDoF), coded aperture design for phase retrieval. Finally, <b>remote sensing</b>,
