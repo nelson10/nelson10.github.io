@@ -19,7 +19,7 @@ location: "Valparaiso, Chile"
 
 **Previous student mentoring**: 
 
-<div style="text-align: justify"> During my postdoctorate in the Pontificia Universidad Católica de Valparaíso (PUCV), I have co-advised the research project of Ph.D. students Alejandro Alvarado, Felipe Guzman, and Bastian Romero. </div>
+<div style="text-align: justify"> During my postdoctorate in the Pontificia Universidad Católica de Valparaíso (PUCV), I have co-advised the research project of Ph.D. students Alejandro Alvarado, Felipe Guzman, and Bastian Romero. </div> <br>
 
 **Teaching plans**
 
