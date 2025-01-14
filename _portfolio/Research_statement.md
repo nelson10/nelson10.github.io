@@ -21,7 +21,7 @@ an algorithm for ground filtering using point cloud processing captured using Li
 <div style="text-align: justify"> This research thrusts will have a broad impact on several domains including consumer photography, surveillance, 
 remote sensing, target identification, medical applications, and computational imaging, and applied optics. </div>
 
-\section*{Research Thrusts}
+**Research Thrusts**
 
 My research involves different interconnected areas of electronic engineering, such as signal processing, digital image processing, and compressive sensing. It also requires knowledge of computer science, such as algorithm design, linear algebra, numerical analysis, mathematical modeling, software expertise, and publication skills to address multidimensional data. These competencies were learned during my bachelor's, master's, and doctoral studies. 
 
