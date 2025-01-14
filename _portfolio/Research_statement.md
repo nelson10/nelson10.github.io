@@ -23,7 +23,7 @@ remote sensing, target identification, medical applications, and computational i
 
 \section*{Research Thrusts}
 
-My research involves different interconnected areas of electronic engineering, such as signal processing, digital image processing, and compressive sensing. It also requires knowledge of computer science, such as algorithm design, linear algebra, numerical analysis, mathematical modeling, software expertise, and publication skills to address multidimensional data. These competencies were learned during my bachelor's, master's, and doctoral studies. \\
+My research involves different interconnected areas of electronic engineering, such as signal processing, digital image processing, and compressive sensing. It also requires knowledge of computer science, such as algorithm design, linear algebra, numerical analysis, mathematical modeling, software expertise, and publication skills to address multidimensional data. These competencies were learned during my bachelor's, master's, and doctoral studies. 
 
 Specifically, I can group my research topics in three subareas:
 
@@ -36,10 +36,10 @@ Specifically, I can group my research topics in three subareas:
 
 %Specifically, [J5, C5] introduced an adaptive system for colored coded aperture snapshot spectral imager (C-CASSI) to improve the image reconstruction quality. 
 
-1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, \\\href{https://doi.org/10.1109/TIP.2023.3288414}{doi:10.1109/TIP.2023.3288414}.
+1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, \href{https://doi.org/10.1109/TIP.2023.3288414}{doi:10.1109/TIP.2023.3288414}.
 2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, \href{https://doi.org/10.1364/OE.444864}{doi.org/10.1364/OE.444864}.
-3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, \\ \href{https://doi.org/10.1016/j.jag.2021.102629}{doi.org/10.1016/j.jag.2021.102629}.
-4. [J4] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, \\\href{https://doi.org/10.1109/JSTARS.2021.3111508}{10.1109/JSTARS.2021.3111508}.
+3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, \href{https://doi.org/10.1016/j.jag.2021.102629}{doi.org/10.1016/j.jag.2021.102629}.
+4. [J4] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, \href{https://doi.org/10.1109/JSTARS.2021.3111508}{10.1109/JSTARS.2021.3111508}.
 5. [J5] **N. Díaz**, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, \href{https://doi.org/10.1016/j.optlastec.2019.03.038}{doi.org/10.1016/j.optlastec.2019.03.038}.
 6. [J6] **N. Díaz**, H. Rueda, H. Arguello, Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging, App. Optics, 2018, https://doi.org/10.1364/AO.57.004890.
 
