@@ -25,6 +25,7 @@ remote sensing, target identification, medical applications, and computational i
 
 
 **Research Thrusts**
+<br>
 
 <div style="text-align: justify">
 My research involves different interconnected areas of electronic engineering, such as signal processing, digital image processing, and compressive sensing. It also requires knowledge of computer science, such as algorithm design, linear algebra, numerical analysis, mathematical modeling, software expertise, and publication skills to address multidimensional data. These competencies were learned during my bachelor's, master's, and doctoral studies. </div>
