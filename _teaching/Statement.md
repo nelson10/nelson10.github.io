@@ -1,5 +1,5 @@
 ---
-title: "Teaching statement"
+title: "Teaching Statement"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/statement
@@ -11,3 +11,46 @@ permalink: /teaching/statement
 - During my master studies I was **assistant of laboratory of numerical analysis using Matlab (2014-2015)**, my role was to give lab instructions and grade lab experiments.
 - During my doctoral studies, I had the opportunity to be an **assistant professor on digital image processing in the Department of Electrical Engineering of Universidad Industrial de Santander** (Bucaramanga, Colombia). My work was to design exams, grade homework, exams and quizzes and answer questions in office hours. Moreover, I designed new lab project for image processing.
 - In the first semester of 2020, I worked as an **assistant professor on data structures, fundamentals of programming, technology of information, and communication (TIC)** and pursuing research work (2020-2021) at the Department of Computer Science at Universidad de Investigación y Desarrollo, Bucaramanga, Colombia. My work was to design exams, grade homework, exams and quizzes and answer questions in office hours.\\
+
+\textbf{Previous student mentoring}: 
+During my postdoctorate in the Pontificia Universidad Católica de Valparaíso (PUCV), I have co-advised the research project of Ph.D. students Alejandro Alvarado, Felipe Guzman, and Bastian Romero.
+
+**Teaching plans**
+
+While it would be natural for me to teach courses in numerical methods, digital signal processing, digital image processing, computer programming, and computational imaging. I would also enthusiastically teach undergraduate and graduate-level courses in advanced topics on signal processing and digital image processing, for instance, compressive sensing and inverse problem in computational imaging.  I would also be specifically interested in developing new courses at the intersection of these fields: compressive sensing and inverse problems in optical engineering and computational imaging, optimization, algorithms and computational complexity, and advanced topics signal processing, digital image processing, and applied machine learning.\\
+
+Recent advances have shown how novel optical and computational imaging architectures allow us to sample signals in 3D and even higher dimensions. We are closer to the ``holy grail" of capturing all dimensions of light (space, angular position, time, depth, spectrum, and polarization) in a single snapshot. Among those novel architectures for sampling light are single-pixel camera, coded aperture compressive temporal imaging, and coded aperture compressive spectral imaging. I want to develop a course that explicitly brings applied optics challenges to leverage an enormous potential by combining modern artificial intelligence and signal processing in higher dimensions.\\
+
+Artificial intelligence boosts the quality of reconstruction by exploiting the enormous amount of labeled data. My intention is to offer a course in which students learn to use artificial intelligence, machine learning and deep learning as tools to solve high-dimensional challenges in digital signal and image processing and computational imaging. These tasks range from classification using compressive spectral measurements to reconstruction with pristine quality using convolutional neural networks, generative adversarial networks (GANs), and transformers.
+
+**Possible course catalog**
+
+The core courses I could teach are:
+
+**Undergraduate courses**
+
+Based on my educational and research background, I am qualified to teach professional, undergraduate courses in electronic engineering and computer science:
+
+    - Digital Image Processing
+    - Signal Image Processing
+    - Inverse Problems
+    - Computer Programming (I have extended experience using Matlab and Python. My public repository in  \href{https://github.com/nelson10}{GitHub}) is available.
+    - Numerical Analysis
+    - Computational Imaging
+    - Algorithms and computational complexity
+    - Introduction to optimization
+    - Remote sensing and geoinformation
+    - Discrete Math
+    - Structure Programming
+    - Applied Machine Learning and deep learning
+
+**Graduate courses**
+
+Since my academic interest is broad, I am qualified to teach a wide variety of courses.
+
+    1. Computational Imaging (all levels) I publish in this area and am active in the conferences in this area.
+    2. Advanced Topics in Digital Signal Processing (all levels)
+    3. Advanced Topics in Digital Image Processing (all levels) I publish in this area and am active in the conferences in this area.
+    4. Optical Engineering (all levels) I publish in this area and use it on a daily basis
+    5. Applied Earth Observation, Remote Sensing and Geo-information (all levels) I publish in this area and use it on a daily basis.
+
