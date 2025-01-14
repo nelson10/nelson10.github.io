@@ -6,10 +6,10 @@ collection: portfolio
 
 <div style="text-align: justify">  I am interested in developing a computational imaging system that improve our understanding of the world. 
 In this regard, my research has focused on 3 different subareas. First, <b>applied sphere packing for 
-single-snapshot spectral imaging and video sensing</b>, where I have designed and built a *multispectral 
-filter array with an optimal sensing distribution* that overcomes the limitations of traditional multispectral filters 
-(color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel **shuffled rolling shutter 
-camera** that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
+single-snapshot spectral imaging and video sensing</b>, where I have designed and built a <i>multispectral 
+filter array with an optimal sensing distribution</i> that overcomes the limitations of traditional multispectral filters 
+(color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel <b>shuffled rolling shutter 
+camera</b> that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
 metal oxide semiconductor (CMOS) detectors. Second, **computational imaging and applied optics** 
 where I explore different topics such adaptive compressive spectral imaging sensing to improve the quality 
 of spectral image reconstruction, wavefront coding using diffractive optical elements for solving tasks
