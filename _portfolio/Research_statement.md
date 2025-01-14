@@ -21,8 +21,7 @@ an algorithm for ground filtering using point cloud processing captured using Li
 
 <div style="text-align: justify"> This research thrusts will have a broad impact on several domains including consumer photography, surveillance, 
 remote sensing, target identification, medical applications, and computational imaging, and applied optics. 
-</div>
-
+</div> <br>
 
 **Research Thrusts**
 <br>
