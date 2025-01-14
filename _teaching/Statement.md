@@ -12,7 +12,7 @@ permalink: /teaching/statement
 - During my doctoral studies, I had the opportunity to be an **assistant professor on digital image processing in the Department of Electrical Engineering of Universidad Industrial de Santander** (Bucaramanga, Colombia). My work was to design exams, grade homework, exams and quizzes and answer questions in office hours. Moreover, I designed new lab project for image processing.
 - In the first semester of 2020, I worked as an **assistant professor on data structures, fundamentals of programming, technology of information, and communication (TIC)** and pursuing research work (2020-2021) at the Department of Computer Science at Universidad de Investigación y Desarrollo, Bucaramanga, Colombia. My work was to design exams, grade homework, exams and quizzes and answer questions in office hours.
 
-\textbf{Previous student mentoring}: 
+**Previous student mentoring**: 
 During my postdoctorate in the Pontificia Universidad Católica de Valparaíso (PUCV), I have co-advised the research project of Ph.D. students Alejandro Alvarado, Felipe Guzman, and Bastian Romero.
 
 **Teaching plans**
@@ -31,26 +31,26 @@ The core courses I could teach are:
 
 Based on my educational and research background, I am qualified to teach professional, undergraduate courses in electronic engineering and computer science:
 
-    - Digital Image Processing
-    - Signal Image Processing
-    - Inverse Problems
-    - Computer Programming (I have extended experience using Matlab and Python. My public repository in  \href{https://github.com/nelson10}{GitHub}) is available.
-    - Numerical Analysis
-    - Computational Imaging
-    - Algorithms and computational complexity
-    - Introduction to optimization
-    - Remote sensing and geoinformation
-    - Discrete Math
-    - Structure Programming
-    - Applied Machine Learning and deep learning
+    * Digital Image Processing
+    * Signal Image Processing
+    * Inverse Problems
+    * Computer Programming (I have extended experience using Matlab and Python. My public repository in  \href{https://github.com/nelson10}{GitHub}) is available.
+    * Numerical Analysis
+    * Computational Imaging
+    * Algorithms and computational complexity
+    * Introduction to optimization
+    * Remote sensing and geoinformation
+    * Discrete Math
+    * Structure Programming
+    * Applied Machine Learning and deep learning
 
 **Graduate courses**
 
 Since my academic interest is broad, I am qualified to teach a wide variety of courses.
 
-    1. Computational Imaging (all levels) I publish in this area and am active in the conferences in this area.
-    2. Advanced Topics in Digital Signal Processing (all levels)
-    3. Advanced Topics in Digital Image Processing (all levels) I publish in this area and am active in the conferences in this area.
-    4. Optical Engineering (all levels) I publish in this area and use it on a daily basis
-    5. Applied Earth Observation, Remote Sensing and Geo-information (all levels) I publish in this area and use it on a daily basis.
+    * Computational Imaging (all levels) I publish in this area and am active in the conferences in this area.
+    * Advanced Topics in Digital Signal Processing (all levels)
+    * Advanced Topics in Digital Image Processing (all levels) I publish in this area and am active in the conferences in this area.
+    * Optical Engineering (all levels) I publish in this area and use it on a daily basis
+    * Applied Earth Observation, Remote Sensing and Geo-information (all levels) I publish in this area and use it on a daily basis.
 
