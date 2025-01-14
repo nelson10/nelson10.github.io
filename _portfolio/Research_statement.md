@@ -10,7 +10,7 @@ single-snapshot spectral imaging/video sensing}, where I have designed and built
 filter array with an optimal sensing distribution} that overcomes the limitations of traditional multispectral filters 
 (color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel **shuffled rolling shutter 
 camera** that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
-metal oxide semiconductor (CMOS) detectors. Second, \textbf{computational imaging and applied optics} 
+metal oxide semiconductor (CMOS) detectors. Second, **computational imaging and applied optics** 
 where I explore different topics such adaptive compressive spectral imaging sensing to improve the quality 
 of spectral image reconstruction, wavefront coding using diffractive optical elements for solving tasks
 such as extended-depth-of-field (EDoF), coded aperture design for phase retrieval. Finally, **remote sensing**,
@@ -27,27 +27,27 @@ My research involves different interconnected areas of electronic engineering, s
 
 Specifically, I can group my research topics in three subareas:
 
- * \textbf{Applied sphere packing for single-snapshot sensing}: I exploits the properties of regular and irregular sphere packing to design novel sensing approaches for snapshot spectral imaging and snapshot video.  My recent publication is Journal [J2] and conference [C1], where we designed a novel snapshot video sampling scheme using sphere packing and shuffling rolling shutter scanlines of the CMOS camera. The abilities with deep learning, ultrasound imaging, and temporal spectral video are shown in references [C2], [C3], and [C4], respectively. One of my most outstanding publication is [J1] published in The IEEE Transactions on image processing a journal with impact factor 10.8, where I introduced sphere packing for multispectral imaging demosaicking, which yield a general framework for spectral imaging acquisition achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, novel neural networks).
+ * **Applied sphere packing for single-snapshot sensing**: I exploits the properties of regular and irregular sphere packing to design novel sensing approaches for snapshot spectral imaging and snapshot video.  My recent publication is Journal [J2] and conference [C1], where we designed a novel snapshot video sampling scheme using sphere packing and shuffling rolling shutter scanlines of the CMOS camera. The abilities with deep learning, ultrasound imaging, and temporal spectral video are shown in references [C2], [C3], and [C4], respectively. One of my most outstanding publication is [J1] published in The IEEE Transactions on image processing a journal with impact factor 10.8, where I introduced sphere packing for multispectral imaging demosaicking, which yield a general framework for spectral imaging acquisition achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, novel neural networks).
 
-*  \textbf{Computational imaging and applied optics}: Adaptive compressive spectral imaging sensing, wavefront coding for extended-depth-of-field, and coded aperture design for phase retrieval (summited). In detail, journals [J1-J2, J4-J5] show compressive spectral imaging and adaptive sensing expertise. Journal [J5] extends my master work in high dynamic range compressive spectral imaging (CSI) using real data and using an optimal coded aperture according to restricted isometry property (RIP), such as blue noise patterns. 
+*  **Computational imaging and applied optics**: Adaptive compressive spectral imaging sensing, wavefront coding for extended-depth-of-field, and coded aperture design for phase retrieval (summited). In detail, journals [J1-J2, J4-J5] show compressive spectral imaging and adaptive sensing expertise. Journal [J5] extends my master work in high dynamic range compressive spectral imaging (CSI) using real data and using an optimal coded aperture according to restricted isometry property (RIP), such as blue noise patterns. 
 
 * **Remote sensing**: Two modalities are highlighted here, compressive spectral imaging classification, and point cloud processing captured using Light Detection and Ranging (LiDAR). My work published in [J4] combines a two-arm optical system, the CSI architecture includes one arm that samples the projection of multispectral data and the other arm that captures hyperspectral projections, and an adaptive system is used to design the complementary coded aperture patterns to improve the spectral classification accuracy. The journal in [J3] shows my expertise in other types of multidimensional data, such as point clouds acquired using LiDAR for a specific task such as ground filtering.
 
 
 %Specifically, [J5, C5] introduced an adaptive system for colored coded aperture snapshot spectral imager (C-CASSI) to improve the image reconstruction quality. 
 
-1. [J1] \textbf{N. Diaz}, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, \\\href{https://doi.org/10.1109/TIP.2023.3288414}{doi:10.1109/TIP.2023.3288414}.
-2. [J2] E. Vera, F. Guzman, \textbf{N. Díaz}, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, \href{https://doi.org/10.1364/OE.444864}{doi.org/10.1364/OE.444864}.
-3. [J3] \textbf{N. Díaz}, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, \\ \href{https://doi.org/10.1016/j.jag.2021.102629}{doi.org/10.1016/j.jag.2021.102629}.
-4. [J4] N. Diaz, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, \\\href{https://doi.org/10.1109/JSTARS.2021.3111508}{10.1109/JSTARS.2021.3111508}.
-5. [J5] \textbf{N. Diaz}, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, \href{https://doi.org/10.1016/j.optlastec.2019.03.038}{doi.org/10.1016/j.optlastec.2019.03.038}.
-6. [J6] N. Diaz, H. Rueda, H. Arguello, Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging, App. Optics, 2018, https://doi.org/10.1364/AO.57.004890.
+1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, \\\href{https://doi.org/10.1109/TIP.2023.3288414}{doi:10.1109/TIP.2023.3288414}.
+2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, \href{https://doi.org/10.1364/OE.444864}{doi.org/10.1364/OE.444864}.
+3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, \\ \href{https://doi.org/10.1016/j.jag.2021.102629}{doi.org/10.1016/j.jag.2021.102629}.
+4. [J4] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, \\\href{https://doi.org/10.1109/JSTARS.2021.3111508}{10.1109/JSTARS.2021.3111508}.
+5. [J5] **N. Díaz**, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, \href{https://doi.org/10.1016/j.optlastec.2019.03.038}{doi.org/10.1016/j.optlastec.2019.03.038}.
+6. [J6] **N. Díaz**, H. Rueda, H. Arguello, Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging, App. Optics, 2018, https://doi.org/10.1364/AO.57.004890.
 
-* [C1] F. Guzman, \textbf{N. Diaz}, E. Vera, Improved Compressive Temporal Imaging using a Shuffled Rolling Shutter, OSA Optical Sensors and Sensing Congress, virtual, 2021.
-*  [C2] J. Bacca, \textbf{N. Diaz}, H. Arguello, Compressive classification via deep learning using single-pixel measurement, 2020 Data Compression Conference, USA, 2020.
-* [C3] \textbf{N. Diaz}, A. Basarab, J-Y Tourneret, H. Arguello, \textbf{Cardiac motion estimation} using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
-*  [C4] \textbf{N. Diaz}, A. Basarab, J-Y Tourneret, H. Arguello, Adaptive coded aperture design by motion estimation using convolutional sparse coding in compressive spectral video sensing, CAMSAP, France, 2019.
-* [C5] \textbf{N. Diaz}, J. Bacca, H. Arguello, Gradient thresholding algorithm for adaptive colored coded aperture design in compressive spectral imaging, OSA Optical Sensors and Sensing Congress, USA, 2017.
+* [C1] F. Guzman, **N. Díaz** E. Vera, Improved Compressive Temporal Imaging using a Shuffled Rolling Shutter, OSA Optical Sensors and Sensing Congress, virtual, 2021.
+*  [C2] J. Bacca, **N. Díaz**, H. Arguello, Compressive classification via deep learning using single-pixel measurement, 2020 Data Compression Conference, USA, 2020.
+* [C3] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, \textbf{Cardiac motion estimation} using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
+*  [C4] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, Adaptive coded aperture design by motion estimation using convolutional sparse coding in compressive spectral video sensing, CAMSAP, France, 2019.
+* [C5] **N. Díaz**, J. Bacca, H. Arguello, Gradient thresholding algorithm for adaptive colored coded aperture design in compressive spectral imaging, OSA Optical Sensors and Sensing Congress, USA, 2017.
 
 **Future Research Plans**
 
