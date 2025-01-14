@@ -5,8 +5,8 @@ collection: portfolio
 ---
 
 <div style="text-align: justify">  I am interested in developing a computational imaging system that improve our understanding of the world. 
-In this regard, my research has focused on 3 different subareas. First, **applied sphere packing for 
-single-snapshot spectral imaging and video sensing**, where I have designed and built a *multispectral 
+In this regard, my research has focused on 3 different subareas. First, <a**applied sphere packing for 
+single-snapshot spectral imaging and video sensing**</a>, where I have designed and built a *multispectral 
 filter array with an optimal sensing distribution* that overcomes the limitations of traditional multispectral filters 
 (color distortion, zipper effect, and color artifacts). Moreover, I have developed a novel **shuffled rolling shutter 
 camera** that eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary
