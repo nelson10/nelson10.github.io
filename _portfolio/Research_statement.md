@@ -13,7 +13,7 @@ camera</b> that eliminate the nuisance artifacts of the rolling shutter mechanis
 metal oxide semiconductor (CMOS) detectors. Second, **computational imaging and applied optics** 
 where I explore different topics such adaptive compressive spectral imaging sensing to improve the quality 
 of spectral image reconstruction, wavefront coding using diffractive optical elements for solving tasks
-such as extended-depth-of-field (EDoF), coded aperture design for phase retrieval. Finally, **remote sensing**,
+such as extended-depth-of-field (EDoF), coded aperture design for phase retrieval. Finally, <b>remote sensing</b>,
 where I have also developed *adaptive compressive multispectral imaging and video acquisition systems* to improve
 the image quality and perform specific tasks, such as, classification. I also *developed and implemented
 an algorithm for ground filtering using point cloud processing captured using Light Detection and Ranging* (LiDAR). </div>
