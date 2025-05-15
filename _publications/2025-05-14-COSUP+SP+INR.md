@@ -9,7 +9,7 @@ venue: 'Optics Express'
 #citation: 'Nelson Diaz, Madhu Beniwal, Miguel Marquez, Felipe Guzmán, Cheng Jiang, Jinyang Liang, and Esteban Vera, &quot;Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging.&quot; <i>, Optics Express,</i>., pp. 1-13, 2025.'
 ---
 
-Recommended citation: **N. Diaz**, M. Beniwal, M. Marquez, F. Guzmán, C. jiang, J. Liang, and E. Vera, "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging," <i> Optics Express,</i> pp. 1-13, 2025. [[DOI]](https://doi.org/10.1364/OE.561323).
+Recommended citation: **N. Diaz**, M. Beniwal, M. Marquez, F. Guzmán, C. Jiang, J. Liang, and E. Vera, "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging," <i> Optics Express,</i> pp. 1-13, 2025. [[DOI]](https://doi.org/10.1364/OE.561323).
 
 Single-shot, high-speed 2D optical imaging is essential for studying transient phenomena in
 various research fields. Among existing techniques, compressed optical-streaking ultra-highspeed photography (COSUP) uses a coded aperture and a galvanometer scanner to capture
