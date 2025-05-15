@@ -1,7 +1,7 @@
 ---
 title: "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging"
 collection: publications
-permalink: /publication/2024-10-30-Phase-retrieval-Complmentary-Hadamard-Coded-Aperture
+permalink: /publication/2025-05-14-Single-mask-sphere-packing-with-implicit-neural-representation-reconstruction-for-ultrahigh-speed-imaging
 excerpt: 
 date: 2025-05-14
 venue: 'Optics Express'
