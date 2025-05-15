@@ -6,7 +6,7 @@ excerpt:
 date: 2025-05-14
 venue: 'Optics Express'
 #paperurl: '[https://doi.org/10.1364/opticaopen.25706580.v1](https://doi.org/10.1364/opticaopen.25706580.v1)'
-#citation: 'Nelson Diaz, Madhu Beniwal, Miguel Marquez, Felipe Guzmán, Cheng jiang, Jinyang Liang, and Esteban Vera, &quot;Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging.&quot; <i>, Optics Express,</i>., pp. 1-13, 2025.'
+#citation: 'Nelson Diaz, Madhu Beniwal, Miguel Marquez, Felipe Guzmán, Cheng Jiang, Jinyang Liang, and Esteban Vera, &quot;Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging.&quot; <i>, Optics Express,</i>., pp. 1-13, 2025.'
 ---
 
 Recommended citation: **N. Diaz**, M. Beniwal, M. Marquez, F. Guzmán, C. jiang, J. Liang, and E. Vera, "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging," <i> Optics Express,</i> pp. 1-13, 2025. [[DOI]](https://doi.org/10.1364/OE.561323).
