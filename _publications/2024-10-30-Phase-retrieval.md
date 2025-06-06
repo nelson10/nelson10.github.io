@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-10-30-Phase-retrieval-Complmentary-Hadamard-Coded-Aperture
 excerpt: 
 date: 2025-06-05
-venue: 'Optica Open'
+venue: 'Optics & Laser Technology'
 #paperurl: '[https://doi.org/10.1364/opticaopen.25706580.v1]([https://doi.org/10.1364/opticaopen.25706580.v1](https://authors.elsevier.com/tracking/article/details.do?surname=Perez&aid=113311&jid=JOLT&from=authorhome))'
 #citation: 'Bastian Romero, Pablo Scherz, Nelson Diaz, Jorge Tapia, Aarón Cofré, Eduardo Peters, Dario Perez and Esteban Vera, &quot;Phase Retrieval by Designed Hadamard Complementary Coded Apertures.&quot; <i>, Optics & Laser Technology,</i>., pp. 499-513, 2025.'
 ---
