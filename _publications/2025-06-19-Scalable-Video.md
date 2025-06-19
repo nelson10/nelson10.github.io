@@ -1,49 +1,31 @@
 ---
-title: "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging"
+title: "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video"
 collection: publications
-permalink: /publication/2025-05-14-Single-mask-sphere-packing-with-implicit-neural-representation-reconstruction-for-ultrahigh-speed-imaging
+permalink: /publication/2025-06-19-Scalable-Coding-High-Resolution-High-Compression-Ratio-Snapshot-Compressive-Video
 excerpt: 
-date: 2025-05-14
-venue: 'Optics Express'
+date: 2025-06-19
+venue: 'IEEE Transactions on Image Processing'
 #paperurl: '[https://doi.org/10.1364/OE.561323](https://doi.org/10.1364/OE.561323)'
-#citation: 'Nelson Diaz, Madhu Beniwal, Miguel Marquez, Felipe Guzmán, Cheng Jiang, Jinyang Liang, and Esteban Vera, &quot;Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging.&quot; <i>, Optics Express,</i>., pp. 24027--24038, 2025.'
+#citation: 'Felipe Guzmán, Nelson Diaz, Bastian Romero, and Esteban Vera, &quot;Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. 34, pp. -, 2025.'
 ---
 
-Recommended citation: **N. Diaz**, M. Beniwal, M. Marquez, F. Guzmán, C. Jiang, J. Liang, and E. Vera, "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging," <i> Optics Express 33,</i> pp. 24027--24038, 2025. [[DOI]](https://doi.org/10.1364/OE.561323),[[Paper]](https://nelson10.github.io/files/2025_OE.pdf).
 
+Recommended citation: F. Guzmán, **N. Diaz**, B. Romero, and E. Vera, "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video," <i> IEEE Transactions on Image Processing,</i> vol. 34, pp. -, 2025. [[DOI]](https://ieeexplore.ieee.org/document/11040128),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[Opticaopen]](https://doi.org/10.1364/opticaopen.24375427.v1), [[Code]](https://github.com/FOGuzman/All-scalable-CACTI.git).
 
+High-speed cameras are crucial for capturing fast events beyond human perception, although challenges in terms of storage, bandwidth, and cost hinder their widespread use. As an alternative, snapshot compressive video can overcome these challenges by exploiting the principles of compressed sensing to capture compressive projections of dynamic scenes into a single image, which is then used to recover the underlying video by solving an ill-posed inverse problem. However, scalability in terms of spatial and temporal resolution is limited for both acquisition and reconstruction. In this work, we leverage time-division multiplexing to design a versatile scalable coded aperture approach that allows unseen spatio-temporal scalability for snapshot compressive video, offering on-the-fly, high-compression ratios with minimal computational burden and low memory requirements. The proposed sampling scheme is universal and compatible with any compressive temporal imaging sampling matrices and reconstruction algorithm aimed for low spatio-temporal resolutions. Simulations validated with a series of experimental results confirm that we can compress up to 512 frames of 2K × 2K resolution into a single snapshot, equivalent to a compression ratio of 0.2%, delivering an overall reconstruction quality exceeding 30 dB in PSNR for conventional reconstruction algorithms, and often surpassing 36 dB when utilizing the latest state-of-the-art deep learning reconstruction algorithms. The results presented in this paper can be reproduced in the following GitHub repository: https://github.com/FOGuzman/All-scalable-CACTI.
 
-Single-shot, high-speed 2D optical imaging is essential for studying transient phenomena in
-various research fields. Among existing techniques, compressed optical-streaking ultra-highspeed photography (COSUP) uses a coded aperture and a galvanometer scanner to capture
-non-repeatable time-evolving events at the 1.5 million-frame-per-second level. However, the use
-of a random coded aperture complicates the reconstruction process and introduces artifacts in
-the recovered videos. In contrast, non-multiplexing coded apertures simplify the reconstruction
-algorithm, allowing the recovery of longer videos from a snapshot. In this work, we design a
-non-multiplexing coded aperture for COSUP by exploiting the properties of congruent sphere
-packing (SP), which enables uniform space-time sampling given by the synergy between the
-galvanometer linear scanning and the optimal SP encoding patterns. We also develop an implicit
-neural representation—which can be self-trained from a single measurement—to not only largely
-reduce the training time and eliminate the need for training datasets, but also reconstruct far more
-ultra-high-speed frames from a single measurement. The advantages of this proposed encoding
-and reconstruction scheme are verified by simulations and experimental results in a COSUP
-system.
 ### Cite
 
 ```
-@article{Diaz:25,
-author = {Nelson Diaz and Madhu Beniwal and Miguel Marquez and Felipe Guzman and Cheng Jiang and Jinyang Liang and Esteban Vera},
-journal = {Opt. Express},
-keywords = {Genetic algorithms; Imaging systems; Inverse design; Optical imaging; Spatial light modulators; Streak cameras},
-number = {11},
-pages = {24027--24038},
-publisher = {Optica Publishing Group},
-title = {Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging},
-volume = {33},
-month = {Jun},
-year = {2025},
-url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-33-11-24027},
-doi = {10.1364/OE.561323},
-abstract = {Single-shot, high-speed 2D optical imaging is essential for studying transient phenomena in various research fields. Among existing techniques, compressed optical-streaking ultra-high-speed photography (COSUP) uses a coded aperture and a galvanometer scanner to capture non-repeatable time-evolving events at the 1.5 million-frame-per-second level. However, the use of a randomly coded aperture complicates the reconstruction process and introduces artifacts in the recovered videos. In contrast, non-multiplexing coded apertures simplify the reconstruction algorithm, allowing the recovery of longer videos from a snapshot. In this work, we design a non-multiplexing coded aperture for COSUP by exploiting the properties of congruent sphere packing (SP), which enables uniform space-time sampling given by the synergy between the galvanometer linear scanning and the optimal SP encoding patterns. We also develop an implicit neural representation\&\#x2014;which can be self-trained from a single measurement\&\#x2014;to not only largely reduce the training time and eliminate the need for training datasets but also reconstruct far more ultra-high-speed frames from a single measurement. The advantages of this proposed encoding and reconstruction scheme are verified by simulations and experimental results in a COSUP system.},
-}
+@ARTICLE{11040128,
+  author={Guzmán, Felipe and Díaz, Nelson and Romero, Bastian and Vera, Esteban},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={High-compressive video;High-resolution video;Compressed sensing;Snapshot compressive video;Scalable coded aperture},
+  doi={10.1109/TIP.2025.3579208}}
 ```
-<a href="https://www.scimagojr.com/journalsearch.php?q=12862&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12862" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=25534&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25534" alt="SCImago Journal &amp; Country Rank"  /></a>
