@@ -6,7 +6,7 @@ excerpt:
 date: 2023-06-26
 venue: 'IEEE Transactions on Image Processing'
 #paperurl: 'https://doi.org/10.1364/OE.444864'
-#citation: 'Nelson Diaz, Alejandro Alvarado, Pablo Meza, Felipe Guzmán, and Esteban Vera, &quot;Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. 34, pp. -, 2025.'
+#citation: 'Felipe Guzmán, Nelson Diaz, Bastian Romero, and Esteban Vera, &quot;Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. 34, pp. -, 2025.'
 ---
 
 Recommended citation: F. Guzmán, **N. Diaz**, B. Romero, and E. Vera, "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video," <i> IEEE Transactions on Image Processing,</i> vol. 34, pp. -, 2025. [[DOI]](https://ieeexplore.ieee.org/document/10163979),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[TechRxiv]](https://doi.org/10.36227/techrxiv.21502899.v1), [[Code]](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking.git), [[ICASSP_2024_poster]](https://nelson10.github.io/files/Poster_ICASSP_2024.pdf).
