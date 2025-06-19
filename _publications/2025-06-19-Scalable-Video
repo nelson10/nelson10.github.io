@@ -16,14 +16,15 @@ High-speed cameras are crucial for capturing fast events beyond human perception
 ### Cite
 
 ```
-@ARTICLE{10163979,
-  author={Diaz, Nelson and Alvarado, Alejandro and Meza, Pablo and Guzmán, Felipe and Vera, Esteban},
+@ARTICLE{11040128,
+  author={Guzmán, Felipe and Díaz, Nelson and Romero, Bastian and Vera, Esteban},
   journal={IEEE Transactions on Image Processing}, 
-  title={Multispectral Filter Array Design by Optimal Sphere Packing}, 
-  year={2023},
-  volume={32},
+  title={Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video}, 
+  year={2025},
+  volume={},
   number={},
-  pages={3634-3649},
-  doi={10.1109/TIP.2023.3288414}}
+  pages={1-1},
+  keywords={High-compressive video;High-resolution video;Compressed sensing;Snapshot compressive video;Scalable coded aperture},
+  doi={10.1109/TIP.2025.3579208}}
 ```
 <a href="https://www.scimagojr.com/journalsearch.php?q=25534&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25534" alt="SCImago Journal &amp; Country Rank"  /></a>
