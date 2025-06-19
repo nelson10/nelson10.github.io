@@ -3,13 +3,13 @@ title: "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Com
 collection: publications
 permalink: /publication/2025-06-19-Scalable-Video
 excerpt: 
-date: 2023-06-26
+date: 2025-06-19
 venue: 'IEEE Transactions on Image Processing'
-#paperurl: 'https://doi.org/10.1364/OE.444864'
+#paperurl: 'https://doi.org/10.1109/TIP.2025.3579208'
 #citation: 'Felipe Guzmán, Nelson Diaz, Bastian Romero, and Esteban Vera, &quot;Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. 34, pp. -, 2025.'
 ---
 
-Recommended citation: F. Guzmán, **N. Diaz**, B. Romero, and E. Vera, "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video," <i> IEEE Transactions on Image Processing,</i> vol. 34, pp. -, 2025. [[DOI]](https://ieeexplore.ieee.org/document/10163979),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[TechRxiv]](https://doi.org/10.36227/techrxiv.21502899.v1), [[Code]](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking.git), [[ICASSP_2024_poster]](https://nelson10.github.io/files/Poster_ICASSP_2024.pdf).
+Recommended citation: F. Guzmán, **N. Diaz**, B. Romero, and E. Vera, "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video," <i> IEEE Transactions on Image Processing,</i> vol. 34, pp. -, 2025. [[DOI]](https://ieeexplore.ieee.org/document/11040128),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[TechRxiv]](https://doi.org/10.36227/techrxiv.21502899.v1), [[Code]](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking.git), [[ICASSP_2024_poster]](https://nelson10.github.io/files/Poster_ICASSP_2024.pdf).
 
 High-speed cameras are crucial for capturing fast events beyond human perception, although challenges in terms of storage, bandwidth, and cost hinder their widespread use. As an alternative, snapshot compressive video can overcome these challenges by exploiting the principles of compressed sensing to capture compressive projections of dynamic scenes into a single image, which is then used to recover the underlying video by solving an ill-posed inverse problem. However, scalability in terms of spatial and temporal resolution is limited for both acquisition and reconstruction. In this work, we leverage time-division multiplexing to design a versatile scalable coded aperture approach that allows unseen spatio-temporal scalability for snapshot compressive video, offering on-the-fly, high-compression ratios with minimal computational burden and low memory requirements. The proposed sampling scheme is universal and compatible with any compressive temporal imaging sampling matrices and reconstruction algorithm aimed for low spatio-temporal resolutions. Simulations validated with a series of experimental results confirm that we can compress up to 512 frames of 2K × 2K resolution into a single snapshot, equivalent to a compression ratio of 0.2%, delivering an overall reconstruction quality exceeding 30 dB in PSNR for conventional reconstruction algorithms, and often surpassing 36 dB when utilizing the latest state-of-the-art deep learning reconstruction algorithms. The results presented in this paper can be reproduced in the following GitHub repository: https://github.com/FOGuzman/All-scalable-CACTI.
 
