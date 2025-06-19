@@ -1,12 +1,12 @@
 ---
-title: "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video"
+title: "Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging"
 collection: publications
-permalink: /publication/2025-06-19-Scalable-Coding-High-Resolution-High-Compression-Ratio-Snapshot-Compressive-Video
+permalink: /publication/2025-05-14-Single-mask-sphere-packing-with-implicit-neural-representation-reconstruction-for-ultrahigh-speed-imaging
 excerpt: 
-date: 2025-06-19
-venue: 'IEEE Transactions on Image Processing'
-#paperurl: 'https://doi.org/10.1109/TIP.2025.3579208'
-#citation: 'Felipe Guzmán, Nelson Diaz, Bastian Romero, and Esteban Vera, &quot;Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video.&quot; <i>IEEE. ransactions on Image Processing,</i>. vol. 34, pp. -, 2025.'
+date: 2025-05-14
+venue: 'Optics Express'
+#paperurl: '[https://doi.org/10.1364/OE.561323](https://doi.org/10.1364/OE.561323)'
+#citation: 'Nelson Diaz, Madhu Beniwal, Miguel Marquez, Felipe Guzmán, Cheng Jiang, Jinyang Liang, and Esteban Vera, &quot;Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging.&quot; <i>, Optics Express,</i>., pp. 24027--24038, 2025.'
 ---
 
 Recommended citation: F. Guzmán, **N. Diaz**, B. Romero, and E. Vera, "Scalable Coding for High-Resolution, High-Compression Ratio Snapshot Compressive Video," <i> IEEE Transactions on Image Processing,</i> vol. 34, pp. -, 2025. [[DOI]](https://ieeexplore.ieee.org/document/11040128),[[Paper]](https://nelson10.github.io/files/2023_IEEE_TIP.pdf), [[Opticaopen]](https://doi.org/10.1364/opticaopen.24375427.v1), [[Code]](https://github.com/FOGuzman/All-scalable-CACTI.git).
