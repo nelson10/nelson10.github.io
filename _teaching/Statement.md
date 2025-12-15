@@ -8,7 +8,7 @@ date: 2025-01-13
 location: "Valparaiso, Chile"
 ---
 
-<div style="text-align: justify"> <b>Teaching Philosophy and Experience</b>
+**Teaching Philosophy and Experience**
 
 <div style="text-align: justify"> <b>I believe that teaching goes beyond delivering knowledge—it is about inspiring curiosity, developing problem-solving skills, and empowering students to apply concepts in meaningful, real-world contexts. My goal is to create a dynamic, inclusive learning environment where students are encouraged to explore ideas independently while being supported by clear instruction, engaging content, and constructive feedback.</b>
 
