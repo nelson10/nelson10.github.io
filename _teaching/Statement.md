@@ -66,5 +66,5 @@ At the graduate level, I can offer specialized courses in:
 
 <div style="text-align: justify"> My teaching philosophy is driven by a passion for research and commitment to student growth. I am to make learning interactive, interdisciplinary, and grounded in real-world applications. Whether through classroom instruction, curriculum development, or research mentorship, I foster an environment where students feel challenged, supported, and inspired. </div> <br>
 
-<div style="text-align: justify"> I am excited to contribute to the academic community at \textbf{\acrlong{department} at the \acrlong{university}}. I look forward to helping to train the next generation of physics.</div> <br>
+<div style="text-align: justify"> I am excited to contribute to the academic community at deparment of computer science at the PUCV. I look forward to helping to train the next generation of computer scientists.</div> <br>
 
