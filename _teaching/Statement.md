@@ -40,18 +40,19 @@ The core courses I could teach are:
 
 Based on my educational and research background, I am qualified to teach professional, undergraduate courses in electronic engineering and computer science:
 
-    * Digital Image Processing
-    * Signal Image Processing
-    * Inverse Problems
-    * Computer Programming (I have extended experience using Matlab and Python. My public repository in  \href{https://github.com/nelson10}{GitHub}) is available.
-    * Numerical Analysis
-    * Computational Imaging
-    * Algorithms and computational complexity
-    * Introduction to optimization
-    * Remote sensing and geoinformation
-    * Discrete Math
-    * Structure Programming
-    * Applied Machine Learning and deep learning
+    * Computer Programming, Object-Oriented Programming, Data Structure Programming, 
+    * Data Science and Machine Learning 
+    * Algorithms and Computational Complexity
+    * Digital Signal/Image Processing
+    * Numerical Methods and Analysis
+    * Linear Algebra
+    * Probability and Statistics
+    * Convex Optimization Methods
+    * Mathematical modeling and simulation
+    * Discrete Mathematics
+    * Automata and Formal Languages
+    * Remote Sensing and Geo-information
+    * Neural Networks and Deep Learning
 
 **Graduate courses**
 
