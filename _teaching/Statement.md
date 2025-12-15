@@ -38,7 +38,7 @@ The core courses I could teach are:
 
 **Undergraduate courses**
 
-Based on my educational and research background, I am qualified to teach professional, undergraduate courses in electronic engineering and computer science:
+At the undergraduate level, I am qualified to teach:
 
     * Computer Programming, Object-Oriented Programming, Data Structure Programming, 
     * Data Science and Machine Learning 
@@ -56,11 +56,15 @@ Based on my educational and research background, I am qualified to teach profess
 
 **Graduate courses**
 
-Since my academic interest is broad, I am qualified to teach a wide variety of courses.
+At the graduate level, I can offer specialized courses in:
 
-    * Computational Imaging (all levels) I publish in this area and am active in the conferences in this area.
-    * Advanced Topics in Digital Signal Processing (all levels)
-    * Advanced Topics in Digital Image Processing (all levels) I publish in this area and am active in the conferences in this area.
-    * Optical Engineering (all levels) I publish in this area and use it on a daily basis
-    * Applied Earth Observation, Remote Sensing and Geo-information (all levels) I publish in this area and use it on a daily basis.
+    * Advanced Digital Signal/Image Processing, including Compressive Sensing and Sparse Representation. 
+    * Computational Imaging and Inverse Problems
+    * Computer Vision and AI. 
+    * Remote Sensing and Earth Observation.
+    * Data Science, Deep Learning and AI applications.
+
+<div style="text-align: justify"> My teaching philosophy is driven by a passion for research and commitment to student growth. I am to make learning interactive, interdisciplinary, and grounded in real-world applications. Whether through classroom instruction, curriculum development, or research mentorship, I foster an environment where students feel challenged, supported, and inspired. </div> <br>
+
+<div style="text-align: justify"> I am excited to contribute to the academic community at \textbf{\acrlong{department} at the \acrlong{university}}. I look forward to helping to train the next generation of physics.</div> <br>
 
