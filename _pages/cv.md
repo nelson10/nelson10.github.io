@@ -26,7 +26,10 @@ Research Topics
 
 Work experience
 ======
-* August 2020-Present: Postdoctoral Research Associate
+* April 2026-Present: Academic position
+* * Department of Computer Science, Universidad Técnica Federico Santa María, Campus Valparaíso
+
+* August 2020-2026: Postdoctoral Fellow
   * School of Electrical Engineering, Pontificia Universidad Católica de Valparaiso, Chile
   * Duties included: To design coded apertures for compressive video adquisition and spectral sensing
   * Mentor: Dr. [Esteban Vera](https://scholar.google.com/citations?user=ymoqnSgAAAAJ&hl=en)
