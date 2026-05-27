@@ -9,7 +9,7 @@ venue: 'Elsevier'
 #citation: 'James Skowronek, Felipe Guzmán, Nelson Díaz, Esteban Vera and David Brady, &quot;Shuffled Rolling Shutter Camera.&quot; <i>Handbook of Statistics, Elsevier,</i>., Vol. 54, pp. 119-145, 2026.'
 ---
 
-Recommended citation: James Skowronek, Felipe Guzmán, **Nelson Díaz**, Esteban Vera and David Brady, "Space-time imaging," <i> Elsevier,</i>, Vol. 54, pp. 119-145, 2026. [[DOI]](https://doi.org/10.1016/bs.host.2026.03.004).
+Recommended citation: James Skowronek, Felipe Guzmán, **Nelson Díaz**, Esteban Vera and David Brady, "Space-time imaging," <i> Elsevier,</i> Vol. 54, pp. 119-145, 2026. [[DOI]](https://doi.org/10.1016/bs.host.2026.03.004).
 
 This chapter provides a survey of space-time imaging, focusing on the evolution from traditional frame-based video to modern computational imaging. It addresses the fundamental challenge of capturing high-dimensional dynamic scenes under the constraints of system and sensor bandwidth, and data volume. The discussion reviews video sensors, snapshot compressive video (SCV), and ultrafast imaging. Ultimately, the chapter highlights a fundamental shift toward the co-design of optics, electronics, and algorithms to efficiently sample the plenoptic function.
 
