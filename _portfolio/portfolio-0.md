@@ -1,6 +1,8 @@
 ---
 title: "Coloquio Departamento de Informática"
 excerpt: " In this coloquio section four application of computational photography are presented, Multispectral demosaicking, ultrafast video, phase retrieval, and Multispectral extended depth-of-field:"
+date: 2016-06-02
+location: "Valparaíso, Chile"
 collection: portfolio
 ---
 
