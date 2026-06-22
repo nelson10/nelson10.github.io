@@ -12,7 +12,7 @@ collection: portfolio
 
 <div style="text-align: justify"> My research in computational imaging spans multiple interconnected areas of computer science, such as, data science, machine learning, computer vision, algorithm design, linear algebra, numerical analysis, mathematical modeling, software, and inverse problems. In addition, my research areas require skills in electronic engineering, such as digital signal/image processing, instrumentation, optical multidimensional data sampling, and compressive sensing. I learned these competencies during my bachelor's, master's, and doctoral studies, and I strengthened them during my postdoctoral position (ANID Fondecyt Postdoctorado 3230489). </div> <br>
 
-My research thrusts can be grouped into three main research areas and are not restricted to: (1) 
+<div style="text-align: justify"> My research thrusts can be grouped into three main research areas and are not restricted to: (1) 
 High dimensional signal processing and compressive sensing
 (2) Algorithms design, inverse problems and machine learning.
 (3) Remote Sensing and Geoinformatics. These research thrusts will have a broad impact on several domains including, consumer photography, surveillance, remote sensing, smart agriculture or agriphotonics, target identification, medical applications, microscopy, computational imaging, and applied optics. </div> <br>
