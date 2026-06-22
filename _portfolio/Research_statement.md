@@ -20,7 +20,7 @@ High dimensional signal processing and compressive sensing
 **High Dimensional Signal Processing and compressive sensing**: 
  <br>
 
-<div style="text-align: justify">  <b>Multispectral imaging and Demosaicking:</b> I have designed optical coding for multispectral filter array with an optimal sensing distribution exploiting sphere packing that overcomes the limitations of traditional multispectral filters (color distortion, zipper effect, and color artifacts) [J3], that was published in The IEEE Transactions on image processing a journal with impact factor 13.7. Our approach is a general framework for spectral imaging acquisition, achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, and novel neural networks).</div> <br>
+<div style="text-align: justify">  <b>Multispectral imaging and Demosaicking:</b> I have designed optical coding for multispectral filter array with an optimal sensing distribution exploiting sphere packing that overcomes the limitations of traditional multispectral filters (color distortion, zipper effect, and color artifacts) [J3], that was published in The IEEE Transactions on image processing a journal with impact factor 15.3. Our approach is a general framework for spectral imaging acquisition, achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, and novel neural networks).</div> <br>
 
 <div style="text-align: justify"> <b>Video sensing:</b>  I have developed a novel temporal coding using sphere packing approach for shuffled the scanlines of the \emph{rolling shutter of the CMOS camera}, which eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary metal oxide semiconductor (CMOS) detectors, Journal [J4] and conference [C2]. The temporal coding using single-mask sphere packing has been combined with implicit neural representation for ultrahigh-speed imaging, see Journal [J2] and conference [C1]. </div> <br>
 
@@ -48,7 +48,7 @@ High dimensional signal processing and compressive sensing
 1. [B1] Esteban Vera, Felipe Guzman, and **Nelson Diaz**. Shuffled Rolling Shutter Camera, pages 499–513. Springer International Publishing, Cham, 2024 DOI: https://doi.org/10.1007/978-3-031-39062-3_27 <br>
 2. [B2] James Skowronek, Felipe Guzmán, **Nelson Diaz**, Esteban Vera, and David Brady. Space-time imaging. Handbook of Statistics. Elsevier, 2026 doi.org/10.1016/bs.host.2026.03.004 <br>
 
-** Future Research Directions**
+**Future Research Directions**
  <br>
  
 <div style="text-align: justify"> My future research will pursue two strategic areas that build on my previous work while addressing critical challenges in computational imaging: </div> <br>
