@@ -1,7 +1,7 @@
 ---
 title: "Research Statement"
 excerpt: "Research Thrusts"
-date: 2025-12-11
+date: 2026-06-22
 collection: portfolio
 ---
 
