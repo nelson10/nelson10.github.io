@@ -46,6 +46,13 @@ High dimensional signal processing and compressive sensing
 1. [B1] Esteban Vera, Felipe Guzman, and **Nelson Diaz**. Shuffled Rolling Shutter Camera, pages 499–513. Springer International Publishing, Cham, 2024 <a href="https://doi.org/10.1007/978-3-031-39062-3_27">doi:10.1007/978-3-031-39062-3_27</a> <br>
 2. [B2] James Skowronek, Felipe Guzmán, **Nelson Diaz**, Esteban Vera, and David Brady. Space-time imaging. Handbook of Statistics. Elsevier, 2026 <a href="https://doi.org/10.1016/bs.host.2026.03.004">doi:10.1016/bs.host.2026.03.004</a> <br>
 
+1. [C1] N. Diaz, M. Beniwal, F. Guzmán, M. Marquez, J. Liang, and E. Vera. “Binary Coded Aperture Design by Sphere Packing in Compressive Ultrafast Photography,” in Optica Sensing Congress 2024 (AIS, LACSEA, Sensors, QSM), paper JF3A.4
+2. [C2] F. Guzman, N. Diaz, E. Vera, Improved Compressive Temporal Imaging using a Shuffled Rolling Shutter, OSA Optical Sensors and Sensing Congress, virtual, 2021.
+3. [C3] J. Bacca, N. Diaz, H. Arguello, Compressive classification via deep learning using single-pixel measurement, 2020 Data Compression Conference, USA, 2020.
+4. [C4] N. Diaz, A. Basarab, J-Y Tourneret, H. Arguello, \textbf{Cardiac motion estimation} using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
+5. [C5] N. Diaz, A. Basarab, J-Y Tourneret, H. Arguello, Adaptive coded aperture design by motion estimation using convolutional sparse coding in compressive spectral video sensing, CAMSAP, France, 2019.
+6. [C6] N. Diaz, J. Bacca, H. Arguello, Gradient thresholding algorithm for adaptive colored coded aperture design in compressive spectral imaging, OSA Optical Sensors and Sensing Congress, USA, 2017.
+
 **Future Research Directions**
  <br>
  
