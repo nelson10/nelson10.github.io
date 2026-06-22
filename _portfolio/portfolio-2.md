@@ -2,6 +2,7 @@
 title: "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification"
 excerpt: "This repository aims to adaptive design the coded apertures from compressive spectral images acquired with a multisensor camera. The classification is performed using the captured compressive projections.
 <br/><img src='/images/twoArms.png'>"
+date: 2021-09-09
 collection: portfolio
 ---
 
@@ -9,7 +10,7 @@ This repository contains the code to reproduce the results presented in the pape
 
 *N. Diaz, J. M. Ramirez, E. Vera and H. Arguello, "Adaptive Multisensor Acquisition via Spatial Contextual Information for Compressive Spectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3111508.
 
-[GitHub Repository](https://github.com/nelson10/CompressiveAdaptiveClassificationMultisensor..git)
+[GitHub Repository](https://github.com/nelson10/CompressiveAdaptiveClassificationMultisensor.git)
 
 ## Usage
 
