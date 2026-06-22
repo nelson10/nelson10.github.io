@@ -5,12 +5,12 @@ date: 2026-06-22
 collection: portfolio
 ---
 
-<div style="text-align: justify">  My computational imaging** laboratory will focus on designing and developing intelligent sensing architectures and recovery algorithms that improves our understanding of the world by enabling more efficient acquisition, representation, and interpretation of high-dimensional light field (space, time, depth, wavelength, polarization, etc). </div> <br>
+<div style="text-align: justify">  My <b>computational imaging:</b> laboratory will focus on designing and developing intelligent sensing architectures and recovery algorithms that improves our understanding of the world by enabling more efficient acquisition, representation, and interpretation of high-dimensional light field (space, time, depth, wavelength, polarization, etc). </div> <br>
 
 **Research Thrusts**
  <br>
  
-<div style="text-align: justify"> My research in  <b>computational imaging:</b> spans multiple interconnected areas of computer science, such as, data science, machine learning, computer vision, algorithm design, linear algebra, numerical analysis, mathematical modeling, software, and inverse problems. In addition, my research areas require skills in electronic engineering, such as digital signal/image processing, instrumentation, optical multidimensional data sampling, and compressive sensing. I learned these competencies during my bachelor's, master's, and doctoral studies, and I strengthened them during my postdoctoral position (ANID Fondecyt Postdoctorado 3230489). </div> <br>
+<div style="text-align: justify"> My research in <b>computational imaging:</b> spans multiple interconnected areas of computer science, such as, data science, machine learning, computer vision, algorithm design, linear algebra, numerical analysis, mathematical modeling, software, and inverse problems. In addition, my research areas require skills in electronic engineering, such as digital signal/image processing, instrumentation, optical multidimensional data sampling, and compressive sensing. I learned these competencies during my bachelor's, master's, and doctoral studies, and I strengthened them during my postdoctoral position (ANID Fondecyt Postdoctorado 3230489). </div> <br>
 
 <div style="text-align: justify"> My research thrusts can be grouped into three main research areas and are not restricted to: (1) 
 High dimensional signal processing and compressive sensing
