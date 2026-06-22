@@ -17,10 +17,10 @@ High dimensional signal processing and compressive sensing
 (2) Algorithms design, inverse problems and machine learning.
 (3) Remote Sensing and Geoinformatics. These research thrusts will have a broad impact on several domains including, consumer photography, surveillance, remote sensing, smart agriculture or agriphotonics, target identification, medical applications, microscopy, computational imaging, and applied optics. </div> <br>
 
-**High Dimensional Signal Processing and compressive sensing:** 
+**High Dimensional Signal Processing and compressive sensing**: 
  <br>
  
-<div style="text-align: justify"> <b> **Multispectral imaging and Demosaicking:** I have designed optical coding for multispectral filter array with an optimal sensing distribution exploiting sphere packing that overcomes the limitations of traditional multispectral filters (color distortion, zipper effect, and color artifacts) [J3], that was published in The IEEE Transactions on image processing a journal with impact factor 13.7. Our approach is a general framework for spectral imaging acquisition, achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, and novel neural networks).</div> <br>
+<div style="text-align: justify"> <b> **Multispectral imaging and Demosaicking**: I have designed optical coding for multispectral filter array with an optimal sensing distribution exploiting sphere packing that overcomes the limitations of traditional multispectral filters (color distortion, zipper effect, and color artifacts) [J3], that was published in The IEEE Transactions on image processing a journal with impact factor 13.7. Our approach is a general framework for spectral imaging acquisition, achieving notable image quality, independent of the reconstruction approach (classical interpolation, convex optimization, and novel neural networks).</div> <br>
 
 <div style="text-align: justify"> <b> **Video sensing:** I have developed a novel temporal coding using sphere packing approach for shuffled the scanlines of the \emph{rolling shutter of the CMOS camera}, which eliminate the nuisance artifacts of the rolling shutter mechanism found in complementary metal oxide semiconductor (CMOS) detectors, Journal [J4] and conference [C2]. The temporal coding using single-mask sphere packing has been combined with implicit neural representation for ultrahigh-speed imaging, see Journal [J2] and conference [C1]. </div> <br>
 
