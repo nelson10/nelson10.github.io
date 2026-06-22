@@ -1,6 +1,7 @@
 ---
 title: "Research Statement"
 excerpt: "Research Thrusts"
+date: 2025-12-11
 collection: portfolio
 ---
 
@@ -37,19 +38,16 @@ Specifically, I can group my research topics in three subareas:
 
 * <div style="text-align: justify"> <b>  Remote sensing: </b> Two modalities are highlighted here, compressive spectral imaging classification, and point cloud processing captured using Light Detection and Ranging (LiDAR). My work published in [J4] combines a two-arm optical system, the CSI architecture includes one arm that samples the projection of multispectral data and the other arm that captures hyperspectral projections, and an adaptive system is used to design the complementary coded aperture patterns to improve the spectral classification accuracy. The journal in [J3] shows my expertise in other types of multidimensional data, such as point clouds acquired using LiDAR for a specific task such as ground filtering. </div>
 
-
-1. [J1] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, <a href="https://doi.org/10.1109/TIP.2023.3288414">doi:10.1109/TIP.2023.3288414</a>.
-2. [J2] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, <a href="https://doi.org/10.1364/OE.444864">doi.org/10.1364/OE.444864</a>.
-3. [J3] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, <a href="https://doi.org/10.1016/j.jag.2021.102629">doi.org/10.1016/j.jag.2021.102629</a>.
-4. [J4] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, <a href="https://doi.org/10.1109/JSTARS.2021.3111508">doi:10.1109/JSTARS.2021.3111508</a>
-5. [J5] **N. Díaz**, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, <a href="https://doi.org/10.1016/j.optlastec.2019.03.038">doi.org/10.1016/j.optlastec.2019.03.038</a>.
-6. [J6] **N. Díaz**, H. Rueda, H. Arguello, Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging, App. Optics, 2018, <a href="https://doi.org/10.1364/AO.57.004890">doi.org/10.1364/AO.57.004890</a>.
-
-* [C1] F. Guzman, **N. Díaz** E. Vera, Improved Compressive Temporal Imaging using a Shuffled Rolling Shutter, OSA Optical Sensors and Sensing Congress, virtual, 2021.
-*  [C2] J. Bacca, **N. Díaz**, H. Arguello, Compressive classification via deep learning using single-pixel measurement, 2020 Data Compression Conference, USA, 2020.
-* [C3] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, **Cardiac motion estimation** using convolutional sparse coding, 2019 27th (EUSIPCO), España, 2019.
-*  [C4] **N. Díaz**, A. Basarab, J-Y Tourneret, H. Arguello, Adaptive coded aperture design by motion estimation using convolutional sparse coding in compressive spectral video sensing, CAMSAP, France, 2019.
-* [C5] **N. Díaz**, J. Bacca, H. Arguello, Gradient thresholding algorithm for adaptive colored coded aperture design in compressive spectral imaging, OSA Optical Sensors and Sensing Congress, USA, 2017.
+1. [J1] Exequiel Oliva, **Nelson Diaz**, Samuel Pinilla, and Esteban Vera. Multispectral extended depth-of-field imaging via stochastic wavefront optimization. IEEE Open Journal of Signal Processing, 6:965–974, 2025, <a href="https://doi.org/10.1109/OJSP.2025.3595046">doi:https://doi.org/10.1109/OJSP.2025.3595046</a>
+2. [J2] Felipe Guzmán, **Nelson Diaz**, Bastián Romero, and Esteban Vera. Scalable coding for high-resolution, high-compression ratio snapshot compressive video. IEEE Transactions on Image Processing, 34:3960– 3970, 2025, <a href="https://doi.org/10.1364/OE.444864">doi:https://doi.org/10.1109/TIP.2025.3579208</a>
+3. [J3] **Nelson Diaz**, Madhu Beniwal, Miguel Marquez, Felipe Guzman, Cheng Jiang, Jinyang Liang, and Esteban Vera. Single-mask sphere-packing with implicit neural representation reconstruction for ultrahigh-speed imaging. Opt. Express, 33(11):24027–24038, Jun 2025, <a href="https://doi.org/10.1364/OE.561323">doi:10.1016/j.optlastec.2025.113311</a>.
+4. [J4] Bastián Romero, Pablo Scherz, **Nelson Diaz**, Jorge Tapia, Aarón Cofré, Eduardo Peters, Esteban Vera, and Darío G. Pérez. Phase retrieval by designed hadamard complementary coded apertures. Optics Laser Technology, 191:113311, 2025, <a href="https://doi.org/10.1016/">doi.org/10.1016</a>.
+5. [J5] **N. Diaz**, A. Alvarado, P. Meza, F. Guzmán and E. Vera, Multispectral Filter Array Design by Optimal Sphere Packing," in IEEE Transactions on Image Processing, vol. 32, pp. 3634-3649, 2023, <a href="https://doi.org/10.1109/TIP.2023.3288414">doi:10.1109/TIP.2023.3288414</a>.
+6. [J6] E. Vera, F. Guzman, **N. Díaz**, Shuffled Rolling Shutter for Snapshot Temporal Imaging, Opt. Express, 2022, <a href="https://doi.org/10.1364/OE.444864">doi.org/10.1364/OE.444864</a>.
+7. [J7] **N. Díaz**, et al, Real-time ground filtering algorithm of cloud points acquired using Terrestrial Laser Scanner”, International JAG, 2021, <a href="https://doi.org/10.1016/j.jag.2021.102629">doi.org/10.1016/j.jag.2021.102629</a>.
+8. [J8] **N. Díaz**, Juan Ramirez, Esteban Vera, Henry Arguello. Adaptive multisensor acquisition via spatial contextual information for compressive spectral image classification, IEEE JSTARS, 2021, <a href="https://doi.org/10.1109/JSTARS.2021.3111508">doi:10.1109/JSTARS.2021.3111508</a>
+9. [J9] **N. Díaz**, Carlos Hinojosa, Henry Arguello, Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns, Optics \& Laser Technology, 2019, <a href="https://doi.org/10.1016/j.optlastec.2019.03.038">doi.org/10.1016/j.optlastec.2019.03.038</a>.
+10. [J10] **N. Díaz**, H. Rueda, H. Arguello, Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging, App. Optics, 2018, <a href="https://doi.org/10.1364/AO.57.004890">doi.org/10.1364/AO.57.004890</a>.
 
 **Future Research Plans**
 
