@@ -16,6 +16,9 @@ These are the lectures of the computational imaging course:
 [Lecture 4](http://github.com/nelson10/files/INF449-computational-imaging/lecture4.pdf)
 
 
+[[Lecture 3]](http://nelson10.github.io/files/INF449-computational-imaging/lecture3.pdf)
+
+
 
 Moreover, you can see a previous recording of that presentation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8fsYfdvqqCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
