@@ -15,11 +15,17 @@ These are the lectures of the Computational Photography course:
 [[Lecture 3]](http://nelson10.github.io/files/INF449-computational-imaging/lecture3.pdf)
 [[Lecture 4]](http://nelson10.github.io/files/INF449-computational-imaging/lecture4.pdf)
 
-Homeworks
+**Homeworks**
 
 In the following you can find your homeworks
 
 [[homework 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.pdf)
+
+**Important links**
+
+[[githubCI ]](https://github.com/arizonaCameraLab/computationalImaging)
+
+[[YoutubeCI]](https://www.youtube.com/watch?v=x_RXIA6ng5U&list=PL7DHXbA3EKCPQUDPJLrWk8a0QkUc-4LgH)
 
 
 Moreover, you can see a previous recording of that presentation.
