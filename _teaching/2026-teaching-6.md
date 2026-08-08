@@ -1,5 +1,5 @@
 ---
-title: "Computational Photography (Assistant Professor)"
+title: "Computational Photography"
 collection: teaching
 type: "Posgraduate course"
 permalink: /teaching/2026-teaching-2
