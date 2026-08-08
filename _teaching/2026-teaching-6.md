@@ -15,6 +15,11 @@ These are the lectures of the computational imaging course:
 [[Lecture 3]](http://nelson10.github.io/files/INF449-computational-imaging/lecture3.pdf)
 [[Lecture 4]](http://nelson10.github.io/files/INF449-computational-imaging/lecture4.pdf)
 
+Homeworks
+
+In the following you can find your homeworks
+
+[[homeworks 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.pdf)
 
 
 Moreover, you can see a previous recording of that presentation.
