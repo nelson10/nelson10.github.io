@@ -10,13 +10,10 @@ location: "Valparaíso, Chile"
 
 These are the lectures of the computational imaging course:
 
-[Lecture 1](http://github.com/nelson10/files/INF449-computational-imaging/lecture1.pptx)
-[Lecture 2](http://github.com/nelson10/files/INF449-computational-imaging/lecture2.pptx)
-[Lecture 3](http://github.com/nelson10/files/INF449-computational-imaging/lecture3.pdf)
-[Lecture 4](http://github.com/nelson10/files/INF449-computational-imaging/lecture4.pdf)
-
-
+[[Lecture 1]](http://nelson10.github.io/files/INF449-computational-imaging/lecture1.pdf)
+[[Lecture 2]](http://nelson10.github.io/files/INF449-computational-imaging/lecture2.pdf)
 [[Lecture 3]](http://nelson10.github.io/files/INF449-computational-imaging/lecture3.pdf)
+[[Lecture 4]](http://nelson10.github.io/files/INF449-computational-imaging/lecture4.pdf)
 
 
 
