@@ -8,7 +8,7 @@ date: 2026-08-03 2026-12-03
 location: "Valparaíso, Chile"
 ---
 
-These are the lectures of the computational imaging course:
+These are the lectures of the Computational Photography course:
 
 [[Lecture 1]](http://nelson10.github.io/files/INF449-computational-imaging/lecture1.pdf)
 [[Lecture 2]](http://nelson10.github.io/files/INF449-computational-imaging/lecture2.pdf)
@@ -19,7 +19,7 @@ Homeworks
 
 In the following you can find your homeworks
 
-[[homeworks 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.pdf)
+[[homework 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.pdf)
 
 
 Moreover, you can see a previous recording of that presentation.
