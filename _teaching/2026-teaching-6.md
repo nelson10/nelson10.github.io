@@ -7,3 +7,8 @@ venue: "Universidad Técnica Federico Santamaría, Campus Valparaíso, Departmen
 date: 2026-08-03 2026-12-03
 location: "Valparaíso, Chile"
 ---
+
+[Lecture 1](https://github.com/nelson10/lecture1.pptx)
+[Lecture 2](https://github.com/nelson10/lecture2.pptx)
+[Lecture 3](https://github.com/nelson10/lecture3.pptx)
+[Lecture 4](https://github.com/nelson10/lecture4.pptx)
