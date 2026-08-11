@@ -8,6 +8,12 @@ date: 2026-08-03 2026-12-03
 location: "Valparaíso, Chile"
 ---
 
+**Class time and lecture format**
+- Fridays 2:00pm-3:00pm
+
+**Office Hours**
+- Wednesdays 2:40pm-3:40pm 5:30pm-6:40pm
+
 These are the lectures of the Computational Photography course:
 
 [[Lecture 1]](http://nelson10.github.io/files/INF449-computational-imaging/lecture1.pdf)
