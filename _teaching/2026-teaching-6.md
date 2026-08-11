@@ -9,10 +9,10 @@ location: "Valparaíso, Chile"
 ---
 
 **Class time and lecture format**
-- Fridays 2:00pm-3:00pm
+- Wednesdays 2:40pm-3:40pm 5:30pm-6:40pm
 
 **Office Hours**
-- Wednesdays 2:40pm-3:40pm 5:30pm-6:40pm
+- Fridays 2:00pm-3:00pm
 
 These are the lectures of the Computational Photography course:
 
