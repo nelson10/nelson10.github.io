@@ -32,6 +32,10 @@ In the following you can find your homeworks
 **Template for reports**
 [[Report template 1]](http://nelson10.github.io/files/INF449-computational-imaging/Plantilla_Informes_CF_2026.zip)
 
+**Computational Photography Github**
+[[Computational photography github repository]](https://github.com/nelson10/ComputationalPhotography.git)
+
+
 
 **Important links**
 
