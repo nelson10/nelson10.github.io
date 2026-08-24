@@ -7,7 +7,7 @@ venue: "Universidad Técnica Federico Santamaría, Campus Valparaíso, Departmen
 date: 2026-08-03 2026-12-03
 location: "Valparaíso, Chile"
 ---
-<div style="text-align: justify">  Computational imaging has diverse applications, such as in consumer electronics, medical and scientific imaging, microscopy, and remote sensing. Computational imaging aims to design new image formation systems—systems where measurement and reconstruction mechanisms are designed together. This course covers digital photography and digital image processing, convolutional neural networks applied to image processing, deconvolution, denoising, single-pixel cameras, inverse image acquisition problems, the proximal gradient method, an introduction to wave optics, end-to-end optimization, and advanced topics in artificial intelligence. 
+<div style="text-align: justify">  Computational imaging has diverse applications, such as in consumer electronics, medical and scientific imaging, microscopy, and remote sensing. Computational imaging aims to design new image formation systems—systems where measurement and reconstruction mechanisms are designed together. This course covers digital photography and digital image processing, convolutional neural networks applied to image processing, deconvolution, denoising, single-pixel cameras, inverse image acquisition problems, the proximal gradient method, an introduction to wave optics, end-to-end optimization, and advanced topics in artificial intelligence. </div> <br>
 
  <br>
 
