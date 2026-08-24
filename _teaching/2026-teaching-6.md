@@ -12,8 +12,6 @@ location: "Valparaíso, Chile"
  
 <div style="text-align: justify">  Computational imaging has diverse applications, such as in consumer electronics, medical and scientific imaging, microscopy, and remote sensing. Computational imaging aims to design new image formation systems—systems where measurement and reconstruction mechanisms are designed together. This course covers digital photography and digital image processing, convolutional neural networks applied to image processing, deconvolution, denoising, single-pixel cameras, inverse image acquisition problems, the proximal gradient method, an introduction to wave optics, end-to-end optimization, and advanced topics in artificial intelligence. </div> <br>
 
- <br>
-
  **Course Objectives**
 
 <div style="text-align: justify">  Students will learn about computational imaging methods and their applications, with an emphasis on solving inverse image capture problems such as denoising, deconvolution, single-pixel cameras, and others. This course will cover classical algorithms, data-driven approaches, convolutional neural networks (CNNs), Transformers, and constrained convex optimization. The emphasis is on applying digital image processing and inverse problem-solving using classical algorithms, optimization-based methods, and modern artificial intelligence techniques. Assignments require programming in Python, with Matlab as an alternative. Python is preferred due to its machine learning and AI libraries. Students learn the material by implementing and researching digital image processing algorithms in Python. </div> <br>
