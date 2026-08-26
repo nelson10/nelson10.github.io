@@ -31,6 +31,10 @@ These are the lectures of the Computational Photography course:
 - [[Lecture 5]](http://nelson10.github.io/files/INF449-computational-imaging/lecture5.pdf)
 - [[Lecture 6]](http://nelson10.github.io/files/INF449-computational-imaging/lecture6.pdf)
 
+**Project Ideas**
+
+- [[Project ideas]](http://nelson10.github.io/files/INF449-computational-imaging/projects.pdf)
+
 **Homeworks**
 
 In the following you can find your homeworks
