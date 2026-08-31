@@ -34,6 +34,8 @@ These are the lectures of the Computational Photography course:
 **Project Ideas**
 
 - [[Project ideas]](http://nelson10.github.io/files/INF449-computational-imaging/projects.pdf)
+- [[Template report project]](http://nelson10.github.io/files/INF449-computational-imaging/LaTeX_template.zip)
+
 
 **Homeworks**
 
