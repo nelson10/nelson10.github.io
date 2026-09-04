@@ -22,7 +22,7 @@ location: "Valparaíso, Chile"
 **Office Hours**
 - Fridays 3:00pm-4:00pm
 
-**Syllabus
+**Syllabus**
 - [[Syllabus]](http://nelson10.github.io/files/INF449-computational-imaging/syllabus.pdf)
 
 These are the lectures of the Computational Photography course:
