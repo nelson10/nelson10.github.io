@@ -44,7 +44,7 @@ These are the lectures of the Computational Photography course:
 
 In the following you can find your homeworks
 
-- [[homework 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.pdf)
+- [[homework 1]](http://nelson10.github.io/files/INF449-computational-imaging/homework1.html)
 - [[homework 2]](http://nelson10.github.io/files/INF449-computational-imaging/homework2.pdf)
 - [[homework 3]](http://nelson10.github.io/files/INF449-computational-imaging/homework3.pdf)
 
