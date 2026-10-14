@@ -49,6 +49,7 @@ In the following you can find your homeworks
 - [[homework 2]](http://nelson10.github.io/files/INF449-computational-imaging/homework2.pdf)
 - [[homework 3]](http://nelson10.github.io/files/INF449-computational-imaging/homework3.pdf)
 - [[homework 4]](http://nelson10.github.io/files/INF449-computational-imaging/homework4.pdf)
+- [[homework 5]](http://nelson10.github.io/files/INF449-computational-imaging/homework5.pdf)
 
 **Template for reports**
 [[Report template 1]](http://nelson10.github.io/files/INF449-computational-imaging/Plantilla_Informes_CF_2026.zip)
