@@ -20,7 +20,7 @@ location: "Valparaíso, Chile"
 - Wednesdays 2:40pm-3:40pm 5:30pm-6:40pm
 
 **Office Hours**
-- Fridays 3:00pm-4:00pm
+- Fridays 3:00pm-4:00pm, USM F-311, campus Valparaíso
 
 **Syllabus**
 - [[Syllabus]](http://nelson10.github.io/files/INF449-computational-imaging/syllabus.pdf)
@@ -61,7 +61,7 @@ In the following you can find your homeworks
 
 **Important links**
 
-[[githubCI ]](https://github.com/arizonaCameraLab/computationalImaging)
+[[githubCI]](https://github.com/arizonaCameraLab/computationalImaging)
 
 [[YoutubeCI]](https://www.youtube.com/watch?v=x_RXIA6ng5U&list=PL7DHXbA3EKCPQUDPJLrWk8a0QkUc-4LgH)
 
